@@ -1,0 +1,64 @@
+
+["Fuel Items"]
+	#Defines items that can be used as fuel
+	#Format: [["item-id-1", amount-1], ["item-id-2", amount-2], ...etc]
+	Boiler = [["#minecraft:planks", 10], ["minecraft:coal", 37], ["minecraft:charcoal", 37], ["#minecraft:logs_that_burn", 37], ["minecraft:coal_block", 333], ["minecraft:magma_block", 333], ["minecraft:lava_bucket", 1000]]
+	Icebox = [["minecraft:snowball", 37], ["minecraft:clay_ball", 37], ["minecraft:snow_block", 333], ["minecraft:ice", 333], ["minecraft:clay", 333], ["minecraft:powder_snow_bucket", 333], ["minecraft:water_bucket", 1000], ["minecraft:packed_ice", 1000], ["minecraft:blue_ice", 1000]]
+	#Negative values indicate cold fuel
+	Hearth = [["#minecraft:planks", 10], ["minecraft:coal", 37], ["minecraft:charcoal", 37], ["#minecraft:logs_that_burn", 37], ["minecraft:coal_block", 333], ["minecraft:magma_block", 333], ["minecraft:lava_bucket", 1000], ["minecraft:snowball", -37], ["minecraft:clay_ball", -37], ["minecraft:snow_block", -333], ["minecraft:ice", -333], ["minecraft:clay", -333], ["minecraft:powder_snow_bucket", -333], ["minecraft:water_bucket", -1000], ["minecraft:packed_ice", -1000], ["minecraft:blue_ice", -1000], ["immersive_weathering:permafrost", -500]]
+	#Potions containing any of these effects will not be allowed in the hearth
+	#Format: ["effect_id", "effect_id", ...etc]
+	"Blacklisted Potion Effects" = ["minecraft:instant_damage", "minecraft:poison", "minecraft:wither", "minecraft:weakness", "minecraft:mining_fatigue", "minecraft:slowness"]
+	#If true, potions can be used as fuel in the hearth
+	#This gives all players in range the potion effect
+	"Allow Potions in Hearth" = true
+
+["Soulspring Lamp"]
+	#Defines items that the Soulspring Lamp can use as fuel
+	#Format: [["item-id-1", amount-1], ["item-id-2", amount-2], ...etc]
+	"Fuel Items" = [["cold_sweat:soul_sprout", 4]]
+	#Defines the dimensions that the Soulspring Lamp can be used in
+	#Format: ["dimension-id-1", "dimension-id-2", ...etc]
+	"Valid Dimensions" = ["minecraft:the_nether"]
+
+[Insulation]
+	#Defines the items that can be used for insulating armor in the Sewing Table
+	#Format: [["item_id", cold, hot], ["item_id", cold, hot], ...etc]
+	#"item_id": The item's ID (i.e. "minecraft:iron_ingot"). Accepts tags with "#" (i.e. "#minecraft:wool").
+	#"cold": The amount of cold insulation the item provides.
+	#"hot": The amount of heat insulation the item provides.
+	"Insulation Ingredients" = [["handcrafted:green_sheet", 0.0, 1.5], ["wardrobe:snow_fox_hide", 2.0, 0.0], ["handcrafted:brown_sheet", 0.0, 1.5], ["alexsmobs:bear_fur", 3.0, 0.0], ["handcrafted:blue_sheet", 0.0, 1.5], ["cold_sweat:fur_parka", 12.0, 0.0], ["handcrafted:black_sheet", 0.0, 1.5], ["minecraft:green_wool", 1.5, 0.0], ["minecraft:rabbit_hide", 0.0, 1.5], ["minecraft:purple_wool", 1.5, 0.0], ["handcrafted:purple_sheet", 0.0, 1.5], ["handcrafted:gray_sheet", 0.0, 1.5], ["cold_sweat:fur_cap", 8.0, 0.0], ["irons_spellbooks:cinder_essence", 4.0, 0.0], ["handcrafted:cyan_sheet", 0.0, 1.5], ["minecraft:leather", 1.0, 1.0], ["minecraft:pink_wool", 1.5, 0.0], ["minecraft:black_wool", 1.5, 0.0], ["minecraft:light_gray_wool", 1.5, 0.0], ["minecraft:white_wool", 1.5, 0.0], ["irons_spellbooks:fire_upgrade_orb", 10.0, 0.0], ["minecraft:leather_boots", 4.0, 4.0], ["minecraft:blue_wool", 1.5, 0.0], ["wardrobe:goat_fur", 2.0, 0.0], ["handcrafted:yellow_sheet", 0.0, 1.5], ["nethersdelight:hoglin_hide", 0.0, 2.0], ["cold_sweat:hoglin_trousers", 0.0, 10.0], ["minecraft:yellow_wool", 1.5, 0.0], ["handcrafted:pink_sheet", 0.0, 1.5], ["handcrafted:magenta_sheet", 0.0, 1.5], ["alexscaves:tough_hide", 0.0, 4.0], ["alexsmobs:kangaroo_hide", 0.0, 1.5], ["cold_sweat:fur", 2.0, 0.0], ["cold_sweat:hoglin_hooves", 0.0, 8.0], ["handcrafted:light_gray_sheet", 0.0, 1.5], ["minecraft:gray_wool", 1.5, 0.0], ["snuffles:snuffle_fluff", 6.0, 0.0], ["cold_sweat:fur_boots", 8.0, 0.0], ["wardrobe:fox_hide", 1.5, 0.0], ["minecraft:light_blue_wool", 1.5, 0.0], ["minecraft:leather_leggings", 5.0, 5.0], ["cold_sweat:fur_pants", 10.0, 0.0], ["minecraft:lime_wool", 1.5, 0.0], ["minecraft:magenta_wool", 1.5, 0.0], ["minecraft:cyan_wool", 1.5, 0.0], ["minecraft:brown_wool", 1.5, 0.0], ["minecraft:leather_chestplate", 6.0, 6.0], ["irons_spellbooks:ice_upgrade_orb", 0.0, 10.0], ["cold_sweat:hoglin_headpiece", 0.0, 8.0], ["handcrafted:white_sheet", 0.0, 1.5], ["alexsmobs:bison_fur", 3.0, 0.0], ["wardrobe:silk", 0.0, 2.0], ["cold_sweat:hoglin_hide", 0.0, 2.0], ["minecraft:red_wool", 1.5, 0.0], ["minecraft:leather_helmet", 4.0, 4.0], ["handcrafted:red_sheet", 0.0, 1.5], ["minecraft:orange_wool", 1.5, 0.0], ["handcrafted:light_blue_sheet", 0.0, 1.5], ["handcrafted:lime_sheet", 0.0, 1.5], ["handcrafted:orange_sheet", 0.0, 1.5], ["cold_sweat:hoglin_tunic", 0.0, 12.0]]
+	#Defines insulation items that have the special "chameleon molt" effect
+	#Format: [["item_id", insulation, adaptSpeed], ["item_id", insulation, adaptSpeed], ...etc]
+	#"item_id": The item's ID (i.e. "minecraft:iron_ingot"). Accepts tags with "#" (i.e. "#minecraft:wool").
+	#"insulation": The amount of insulation the item provides. Will adjust to hot/cold based on the environment.
+	#"adaptSpeed": The speed at which the item adapts to the current temperature. Higher values mean faster adaptation (from 0 to 1).
+	"Adaptive Insulation Ingredients" = [["cold_sweat:chameleon_molt", 2.0, 0.0085]]
+	#Defines the items that provide insulation when worn
+	#Format: [["item_id", cold, hot], ["item_id", cold, hot], ...etc]
+	#"item_id": The item's ID (i.e. "minecraft:iron_ingot"). Accepts tags with "#" (i.e. "#minecraft:wool").
+	#"cold": The amount of cold insulation the item provides.
+	#"hot": The amount of heat insulation the item provides.
+	"Insulating Armor" = [["wardrobe:savanna_chestplate", 2.0, 8.0], ["wardrobe:broken_barrel_chestplate", 0.0, 10.0], ["alexscaves:hazmat_mask", 8.0, 8.0], ["wardrobe:farmers_hat_helmet", 0.0, 6.0], ["alexsmobs:sombrero", 0.0, 8.0], ["overweight_farming:straw_hat", 0.0, 6.0], ["alexscaves:hazmat_leggings", 10.0, 10.0], ["cold_sweat:fur_parka", 12.0, 0.0], ["wardrobe:taiga_helmet", 8.0, 0.0], ["wardrobe:snow_fox_hat_helmet", 8.0, 0.0], ["wardrobe:desert_leggings", 3.0, 8.0], ["irons_spellbooks:cryomancer_helmet", 12.0, 0.0], ["cold_sweat:fur_cap", 8.0, 0.0], ["irons_spellbooks:cryomancer_chestplate", 18.0, 0.0], ["alexscaves:primordial_pants", 0.0, 6.0], ["wardrobe:fletchers_hat_helmet", 2.0, 6.0], ["irons_spellbooks:pyromancer_boots", 0.0, 12.0], ["minecraft:leather_boots", 4.0, 4.0], ["wardrobe:jungle_boots", 0.0, 6.0], ["wardrobe:taiga_leggings", 10.0, 0.0], ["wardrobe:snowy_boots", 12.0, 0.0], ["wardrobe:jungle_leggings", 0.0, 7.0], ["wardrobe:snowy_helmet", 12.0, 0.0], ["wardrobe:savanna_boots", 2.0, 6.0], ["irons_spellbooks:pyromancer_helmet", 0.0, 12.0], ["cold_sweat:hoglin_trousers", 0.0, 10.0], ["wardrobe:desert_boots", 2.0, 6.0], ["quark:forgotten_hat", 0.0, 4.0], ["wardrobe:desert_chestplate", 4.0, 10.0], ["irons_spellbooks:cryomancer_leggings", 15.0, 0.0], ["enemyexpansion:phantasm_boots", 6.0, 0.0], ["wardrobe:taiga_chestplate", 12.0, 0.0], ["cold_sweat:hoglin_hooves", 0.0, 8.0], ["irons_spellbooks:pyromancer_leggings", 0.0, 15.0], ["irons_spellbooks:wandering_magician_leggings", 6.0, 6.0], ["alexsmobs:roadrunner_boots", 0.0, 8.0], ["wardrobe:snowy_hood_covered_helmet", 12.0, 0.0], ["alexscaves:primordial_tunic", 0.0, 7.0], ["alexscaves:hazmat_boots", 8.0, 8.0], ["cold_sweat:fur_boots", 8.0, 0.0], ["alexscaves:hazmat_chestplate", 12.0, 12.0], ["minecraft:leather_leggings", 5.0, 5.0], ["wardrobe:jungle_chestplate", 0.0, 8.0], ["cold_sweat:fur_pants", 10.0, 0.0], ["irons_spellbooks:wandering_magician_boots", 5.0, 5.0], ["enemyexpansion:phantasm_helmet", 6.0, 0.0], ["enemyexpansion:phantasm_chestplate", 9.0, 0.0], ["wardrobe:snowy_leggings", 14.0, 0.0], ["irons_spellbooks:wandering_magician_helmet", 5.0, 5.0], ["minecraft:leather_chestplate", 6.0, 6.0], ["wardrobe:desert_helmet", 2.0, 6.0], ["wardrobe:savanna_leggings", 2.0, 7.0], ["cold_sweat:hoglin_headpiece", 0.0, 8.0], ["irons_spellbooks:cryomancer_boots", 12.0, 0.0], ["alexsmobs:froststalker_helmet", 8.0, 0.0], ["enemyexpansion:phantasm_leggings", 7.0, 0.0], ["irons_spellbooks:wandering_magician_chestplate", 7.0, 7.0], ["wardrobe:fox_hat_helmet", 6.0, 0.0], ["minecraft:leather_helmet", 4.0, 4.0], ["alexsmobs:emu_leggings", 0.0, 6.0], ["wardrobe:snowy_chestplate", 16.0, 0.0], ["irons_spellbooks:pyromancer_chestplate", 0.0, 18.0], ["wardrobe:taiga_boots", 8.0, 0.0], ["cold_sweat:hoglin_tunic", 0.0, 12.0]]
+	#Defines the items that provide insulation when worn in a curio slot
+	#Format: [["item_id", cold, hot], ["item_id", cold, hot], ...etc]
+	#"item_id": The item's ID (i.e. "minecraft:iron_ingot"). Accepts tags with "#" (i.e. "#minecraft:wool").
+	#"cold": The amount of cold insulation the item provides.
+	#"hot": The amount of heat insulation the item provides.
+	"Insulating Curios" = [["wardrobe:soul_lantern_on_a_stick", 0.0, 6.0], ["artifacts:bunny_hoppers", 4.0, 4.0], ["wardrobe:cyan_scarf", 4.0, 0.0], ["wardrobe:brown_scarf", 4.0, 0.0], ["wardrobe:fishing_apron", 0.0, 6.0], ["wardrobe:red_scarf", 4.0, 0.0], ["wardrobe:black_scarf", 4.0, 0.0], ["wardrobe:light_gray_scarf", 4.0, 0.0], ["irons_spellbooks:frostward_ring", 10.0, 0.0], ["wardrobe:purple_scarf", 4.0, 0.0], ["wardrobe:chiton", 0.0, 4.0], ["wardrobe:leather_apron", 0.0, 6.0], ["irons_spellbooks:fireward_ring", 0.0, 10.0], ["wardrobe:magenta_scarf", 4.0, 0.0], ["artifacts:fire_gauntlet", 6.0, 0.0], ["wardrobe:lime_scarf", 4.0, 0.0], ["artifacts:kitty_slippers", 4.0, 0.0], ["wardrobe:gray_scarf", 4.0, 0.0], ["wardrobe:lantern_on_a_stick", 6.0, 0.0], ["artifacts:lucky_scarf", 4.0, 0.0], ["artifacts:obsidian_skull", 0.0, 10.0], ["wardrobe:brewing_apron", 0.0, 6.0], ["wardrobe:hardened_leather_arpon", 0.0, 8.0], ["wardrobe:light_blue_scarf", 4.0, 0.0], ["artifacts:running_shoes", 0.0, 4.0], ["wardrobe:orange_scarf", 4.0, 0.0], ["wardrobe:blue_scarf", 4.0, 0.0], ["wardrobe:green_scarf", 4.0, 0.0], ["wardrobe:yellow_scarf", 4.0, 0.0], ["artifacts:scarf_of_invisibility", 4.0, 0.0], ["wardrobe:white_scarf", 4.0, 0.0], ["artifacts:villager_hat", 0.0, 4.0], ["wardrobe:pink_scarf", 4.0, 0.0]]
+	#Defines how many insulation slots armor pieces have
+	#Format: [head, chest, legs, feet]
+	"Insulation Slots" = [4, 6, 5, 4]
+	#Defines wearable items that cannot be insulated
+	#Format: ["item_id", "item_id", ...etc]
+	"Insulation Blacklist" = []
+
+[Consumables]
+	#Defines items that affect the player's temperature when consumed
+	#Format: [["item_id", amount], ["item_id", amount], ...etc]
+	#Negative values are cold foods, positive values are hot foods
+	"Temperature-Affecting Foods" = [["miners_delight:vegetable_soup_cup", 10.0], ["miners_delight:beetroot_soup_cup", 10.0], ["farmersdelight:melon_juice", -10.0], ["miners_delight:noodle_soup_cup", 10.0], ["create:builders_tea", 17.0], ["endersdelight:chorus_juice", -5.0], ["farmersdelight:bone_broth", 10.0], ["miners_delight:chicken_soup_cup", 10.0], ["farmersdelight:pumpkin_soup", 10.0], ["farmersdelight:milk_bottle", -10.0], ["miners_delight:bat_soup", 10.0], ["farmersdelight:hot_cocoa", 17.0], ["miners_delight:bone_broth_cup", 10.0], ["farmersdelight:vegetable_soup", 10.0], ["nethersdelight:magma_gelatin", 25.0], ["nethersdelight:nether_skewer", 20.0], ["thinair:soulfire_bottle", -15.0], ["farmersdelight:melon_popsicle", -15.0], ["miners_delight:water_cup", -8.0], ["oceansdelight:bowl_of_guardian_soup", 10.0], ["quarkdelight:cloud_latte", -15.0], ["miners_delight:cave_soup_cup", 10.0], ["miners_delight:cave_soup", 10.0], ["farmersdelight:noodle_soup", 10.0], ["miners_delight:bat_soup_cup", 10.0], ["farmersdelight:apple_cider", -10.0], ["farmersdelight:chicken_soup", 10.0], ["immersive_weathering:icicle", -25.0], ["nethersdelight:propelpearl", 12.0], ["miners_delight:insect_stew_cup", 10.0], ["miners_delight:pumpkin_soup_cup", 10.0], ["overweight_farming:melon_juice", -10.0], ["alexscaves:primordial_soup", 10.0], ["farmersdelight:glow_berry_custard", -10.0]]
+	#Defines how much a waterskin will change the player's body temperature by when used
+	#Range: > 0
+	"Waterskin Strength" = 50
+

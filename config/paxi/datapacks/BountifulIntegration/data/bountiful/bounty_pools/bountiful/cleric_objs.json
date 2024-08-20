@@ -1,0 +1,26 @@
+{
+    "content": {
+        "cleric_rew_potion_mundane": {
+            "type": "item",
+            "content": "minecraft:potion",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 400,
+            "nbt": "{Potion:\"minecraft:mundane\"}",
+            "weightMult": 0.3
+        },
+        "cleric_rew_potion_awkward": {
+            "type": "item",
+            "content": "minecraft:potion",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 600,
+            "nbt": "{Potion:\"minecraft:awkward\"}",
+            "weightMult": 0.4
+        }
+    }
+}

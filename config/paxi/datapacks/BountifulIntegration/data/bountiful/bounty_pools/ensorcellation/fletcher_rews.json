@@ -1,0 +1,14 @@
+{
+    "requires": ["ensorcellation"],
+    "content": {
+        "fletcher_rews_looting": {
+            "type": "item",
+            "content": "minecraft:enchanted_book",
+            "nbt": "{StoredEnchantments:[{lvl:1s,id:\"ensorcellation:hunter\"}]}",
+            "amount": {"min": 1,"max": 1},
+            "unitWorth": 2400,
+            "rarity": "EPIC",
+            "weightMult": 0.2
+        }
+    }
+}

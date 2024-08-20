@@ -1,0 +1,97 @@
+{
+    "replace": false,
+	"requires": ["numismatics"],
+	"content": {
+		"all_obj_numismatic_spur": {
+			"type": "item",
+			"content": "numismatics:spur",
+			"amount": {"min": 6, "max": 32},
+			"unitWorth": 300,
+			"weightMult": 0.2,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "numismatics:spur"
+				},
+				{
+					"type": "item",
+					"content": "numismatics:bevel"
+				},
+				{
+					"type": "item",
+					"content": "numismatics:sprocket"
+				},
+				{
+					"type": "item",
+					"content": "minecraft:emerald"
+				}
+			]
+		},
+		"all_obj_numismatic_bevel": {
+			"type": "item",
+			"content": "numismatics:bevel",
+			"amount": {"min": 2, "max": 16},
+			"unitWorth": 2400,
+			"weightMult": 0.2,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "numismatics:spur"
+				},
+				{
+					"type": "item",
+					"content": "numismatics:bevel"
+				},
+				{
+					"type": "item",
+					"content": "numismatics:sprocket"
+				},
+				{
+					"type": "item",
+					"content": "minecraft:emerald"
+				}
+			]
+		},
+		"all_obj_numismatic_sprocket": {
+			"type": "item",
+			"content": "numismatics:sprocket",
+			"amount": {"min": 1, "max": 8},
+			"unitWorth": 4800,
+			"weightMult": 0.2,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "numismatics:spur"
+				},
+				{
+					"type": "item",
+					"content": "numismatics:bevel"
+				},
+				{
+					"type": "item",
+					"content": "numismatics:sprocket"
+				},
+				{
+					"type": "item",
+					"content": "minecraft:emerald"
+				}
+			]
+		},
+		"all_obj_primary_currency": {
+			"forbids": [
+				{
+					"type": "item",
+					"content": "numismatics:spur"
+				},
+				{
+					"type": "item",
+					"content": "numismatics:bevel"
+				},
+				{
+					"type": "item",
+					"content": "numismatics:sprocket"
+				}
+			]
+		}
+	}
+}

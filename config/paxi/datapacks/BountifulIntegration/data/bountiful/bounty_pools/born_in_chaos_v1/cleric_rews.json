@@ -1,0 +1,28 @@
+{
+    "requires": ["born_in_chaos_v1"],
+    "content": {
+        "cleric_dark_metal": {
+            "type": "item",
+            "content": "born_in_chaos_v1:pieceofdarkmetal",
+            "amount": {"min": 1,"max": 6},
+            "unitWorth": 600,
+            "rarity": "UNCOMMON"
+        },
+        "cleric_phantom_powder": {
+            "type": "item",
+            "content": "born_in_chaos_v1:phantom_powder",
+            "amount": {"min": 1, "max": 2},
+            "unitWorth": 1200,
+            "weightMult": 0.5,
+            "rarity": "UNCOMMON"
+        },
+        "cleric_fire_dust": {
+            "type": "item",
+            "content": "born_in_chaos_v1:fire_dust",
+            "amount": {"min": 1, "max": 4},
+            "unitWorth": 1300,
+            "weightMult": 0.3,
+            "rarity": "RARE"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "requires": ["supplementaries"],
+    "content": {
+        "fletcher_arrow_rope": {
+            "type": "item",
+            "content": "supplementaries:rope_arrow",
+            "amount": {"min": 4,"max": 8},
+            "unitWorth": 300,
+            "rarity": "UNCOMMON",
+            "nbt": "{Damage:0}"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "block_transform",
+    "flowing": "molten_metals:flowing_molten_copper",
+    "block_to_transform": "minecraft:stone",
+    "blocks_nearby": [
+        "minecraft:magma_block"
+    ],
+    "result": {
+        "type": "block",
+        "block": "minecraft:glass"
+    }
+}

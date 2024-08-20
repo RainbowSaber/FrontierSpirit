@@ -1,0 +1,103 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema",
+    "type": "object",
+    "properties": {
+        "replace": {
+            "type": "boolean"
+        },
+        "requires": {
+            "type":"array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "content": {
+            "type": "object",
+                "patternProperties": {
+                    "[a-z_]*": {
+                    "type": ["object", "null"],
+                    "properties": {
+                        "type": {
+                            "description": "Sets the type of bounty we are making",
+                            "enum": ["item", "item_tag", "entity", "criteria", "command"]
+                        },
+                        "rarity": {
+                            "description": "Determines how rare the entry is. Higher rarities are more frequent at higher reputation",
+                            "enum": ["COMMON", "UNCOMMON", "RARE", "EPIC", "LEGENDARY"]
+                        },
+                        "content": {
+                            "description": "Textual representation of the content of the entry, can be an item id, entity id, command or criterium",
+                            "type": "string",
+                            "pattern": "^[a-z_]*:[a-z_]*|[a-zA-Z%/{}]*$"
+                        },
+                        "amount": {
+                            "description": "Minimum and Maximum amount of this content that can be offered as a bounty",
+                            "type": "object",
+                            "properties": {
+                                "min": {
+                                    "type": "integer",
+                                    "minimum": 0
+                                },
+                                "max": {
+                                    "type": "integer",
+                                    "minimum": 1
+                                }
+                            },
+                            "required": ["min", "max"]
+                        },
+                        "unitWorth": {
+                            "description": "How much a single unit of the content is worth to balance with the other side of the bounty",
+                            "type": "integer",
+                            "minimum": 1
+                        },
+                        "nbt": {
+                            "description": "Optional key used for item entries that allows for adding NBT data to items",
+                            "type": "string"
+                        },
+                        "forbids": {
+                            "description": "List of entries that are never opposed to this in a bounty. Use to avoid nonsensical bounties",
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "type": {
+                                        "type": "string"
+                                    },
+                                    "content": {
+                                        "type": "string"
+                                    }
+                                }
+                            }
+                        },
+                        "weightMult": {
+                            "description": "Allows for further adjustment of the frequency. Use rarity when possible",
+                            "type": "number",
+                            "exclusiveMinimum": 0
+                        },
+                        "name": {
+                            "description": "Overides localization and allows to set a custom name for the bounty",
+                            "type": "string",
+                            "pattern": "^[A-Z]*.*$"
+                        },
+                         "timeMult": {
+                            "description": "Allows modification of bounty availability",
+                            "type": "number",
+                            "exclusiveMinimum": 0
+                        },
+                        "icon": {
+                            "description": "Reference to an item that replaces the default icon for this entry",
+                            "type": "string"
+                        },
+                        "repRequired": {
+                            "description": "Sets a minimum reputation required to make the entry appear",
+                            "type": "integer",
+                            "minimum": 1,
+                            "maximum": 30
+                        },
+                        "conditions": {}
+                    }
+                }
+    }
+        }
+    }
+}

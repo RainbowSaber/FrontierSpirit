@@ -1,0 +1,83 @@
+{"content": {
+    "cleric_rew_potion_haste": {
+        "type": "item",
+        "content": "minecraft:potion",
+        "amount": {
+            "min": 1,
+            "max": 2
+        },
+        "unitWorth": 800,
+        "rarity": "UNCOMMON", "weight": 0.2,
+        "nbt": "{Potion:\"spelunkers_charm:haste\"}"
+    },
+    "cleric_rew_potion_regeneration": {
+        "type": "item",
+        "content": "minecraft:potion",
+        "amount": {
+            "min": 1,
+            "max": 2
+        },
+        "unitWorth": 800,
+        "rarity": "UNCOMMON", "weight": 0.2,
+        "nbt": "{Potion:\"minecraft:regeneration\"}"
+    },
+    "cleric_rew_potion_slow_falling": {
+        "type": "item",
+        "content": "minecraft:potion",
+        "amount": {
+            "min": 1,
+            "max": 2
+        },
+        "unitWorth": 800,
+        "rarity": "UNCOMMON", "weight": 0.2,
+        "nbt": "{Potion:\"minecraft:slow_falling\"}"
+    },
+    "cleric_rew_potion_swiftness": {
+        "type": "item",
+        "content": "minecraft:potion",
+        "amount": {
+            "min": 1,
+            "max": 2
+        },
+        "unitWorth": 800,
+        "rarity": "UNCOMMON", "weight": 0.2,
+        "nbt": "{Potion:\"minecraft:swiftness\"}"
+    },
+    "cleric_rew_potion_water": {
+        "type": "item",
+        "content": "minecraft:potion",
+        "amount": {
+            "min": 1,
+            "max": 8
+        },
+        "unitWorth": 100,
+        "rarity": "UNCOMMON", "weight": 0.2,
+        "nbt": "{Potion:\"minecraft:water\"}"
+    },
+    "cleric_rew_potion_awkward": {
+        "type": "item",
+        "content": "minecraft:potion",
+        "amount": {
+            "min": 1,
+            "max": 4
+        },
+        "unitWorth": 200,
+        "rarity": "UNCOMMON", "weight": 0.2,
+        "nbt": "{Potion:\"minecraft:awkward\"}"
+    },
+    "cleric_rew_potion_luck": {
+        "unitWorth": 800,
+        "rarity": "UNCOMMON", "weight": 0.2,
+        "amount": {"min":1,"max": 2}
+    },
+    "cleric_rew_fire_resist": {
+        "unitWorth": 800,
+        "rarity": "UNCOMMON", "weight": 0.2,
+        "amount": {"min":1,"max": 2}
+    },
+    "cleric_rew_potion_heals": {
+        "unitWorth": 800,
+        "rarity": "UNCOMMON", "weight": 0.2,
+        "amount": {"min":1,"max": 2}
+    }
+}}

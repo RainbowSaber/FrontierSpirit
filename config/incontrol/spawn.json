@@ -1,0 +1,7 @@
+[
+    {
+      "mob": "enemyexpansion:direwolf",
+      "when": "onjoin",
+      "result": "deny"
+    }
+  ]

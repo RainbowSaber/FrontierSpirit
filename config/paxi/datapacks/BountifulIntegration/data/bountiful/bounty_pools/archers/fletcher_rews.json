@@ -1,0 +1,131 @@
+{
+    "requires": ["archers"],
+    "content": {
+        "fletcher_obj_archer_helm": {
+            "type": "item",
+            "content": "archers:archer_armor_head",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1200,
+            "rarity": "UNCOMMON",
+            "nbt": "{Damage:0}",
+            "weightMult": 0.2            
+        },
+
+        "fletcher_obj_archer_chest": {
+            "type": "item",
+            "content": "archers:archer_armor_chest",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1800,
+            "rarity": "UNCOMMON",
+            "nbt": "{Damage:0}",
+            "weightMult": 0.2
+        },
+
+        "fletcher_obj_archer_legs": {
+            "type": "item",
+            "content": "archers:archer_armor_legs",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1600,
+            "rarity": "UNCOMMON",
+            "nbt": "{Damage:0}",
+            "weightMult": 0.2
+        },
+
+        "fletcher_obj_archer_boots": {
+            "type": "item",
+            "content": "archers:archer_armor_feet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1000,
+            "rarity": "UNCOMMON",
+            "nbt": "{Damage:0}",
+            "weightMult": 0.2
+        },
+        "fletcher_obj_archer2_helm": {
+            "type": "item",
+            "content": "archers:ranger_armor_head",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1600,
+            "rarity": "RARE",
+            "nbt": "{Damage:0}",
+            "weightMult": 0.2
+        },
+
+        "fletcher_obj_archer2_chest": {
+            "type": "item",
+            "content": "archers:ranger_armor_chest",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2200,
+            "rarity": "RARE",
+            "nbt": "{Damage:0}",
+            "weightMult": 0.2
+        },
+
+        "fletcher_obj_archer2_legs": {
+            "type": "item",
+            "content": "archers:ranger_armor_legs",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2000,
+            "rarity": "RARE",
+            "nbt": "{Damage:0}",
+            "weightMult": 0.2
+        },
+
+        "fletcher_obj_archer2_boots": {
+            "type": "item",
+            "content": "archers:ranger_armor_feet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1400,
+            "rarity": "RARE",
+            "nbt": "{Damage:0}",
+            "weightMult": 0.2
+        },
+        "fletcher_obj_archer_bow": {
+            "type": "item",
+            "content": "archers:composite_longbow",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1100,
+            "rarity": "UNCOMMON",
+            "nbt": "{Damage:0}",
+            "weightMult": 0.2
+        },
+        "fletcher_obj_archer2_bow": {
+            "type": "item",
+            "content": "archers:mechanic_shortbow",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1300,
+            "rarity": "RARE",
+            "nbt": "{Damage:0}",
+            "weightMult": 0.2
+        }
+    }
+}

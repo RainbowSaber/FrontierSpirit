@@ -1,0 +1,141 @@
+{
+  "modPriorities": [
+    "minecraft",
+    "kubejs",
+    "crafttweaker",
+    "create",
+    "thermal",
+    "immersiveengineering",
+    "spelunkery",
+    "tfmg"    
+  ],
+  "stoneStrata": [
+    "stone",
+    "nether",
+    "deepslate",
+    "granite",
+    "diorite",
+    "andesite"
+  ],
+  "tags": [
+    "forge:nuggets/{material}",
+    "forge:dusts/{material}",
+    "forge:gears/{material}",
+    "forge:gems/{material}",
+    "forge:ingots/{material}",
+    "forge:raw_materials/{material}",
+    "forge:ores/{material}",
+    "forge:plates/{material}",
+    "forge:rods/{material}",
+    "forge:wires/{material}",
+    "forge:storage_blocks/{material}",
+    "forge:storage_blocks/raw_{material}"
+  ],
+  "materials": [
+    "aeternium",
+    "aluminum",
+    "amber",
+    "apatite",
+    "bitumen",
+    "brass",
+    "bronze",
+    "charcoal",
+    "chrome",
+    "cinnabar",
+    "coal",
+    "coal_coke",
+    "cobalt",
+    "constantan",
+    "copper",
+    "diamond",
+    "electrum",
+    "elementium",
+    "emerald",
+    "enderium",
+    "fluorite",
+    "gold",
+    "graphite",
+    "invar",
+    "iridium",
+    "iron",
+    "lapis",
+    "lead",
+    "lumium",
+    "mithril",
+    "netherite",
+    "nickel",
+    "obsidian",
+    "osmium",
+    "peridot",
+    "platinum",
+    "potassium_nitrate",
+    "ruby",
+    "sapphire",
+    "signalum",
+    "silver",
+    "steel",
+    "sulfur",
+    "tin",
+    "tungsten",
+    "uranium",
+    "zinc"
+  ],
+  "priorityOverrides": {},
+  "customTags": {
+    "forge:rare_earths": [
+      "spelunkery:rock_salt_block","tfmg:galena", "tfmg:bauxite", "tfmg:fireclay", "tfmg:lignite", "tfmg:sulfur", "spelunkery:sulfur_block", "minecraft:clay", "spelunkery:raw_nephrite", "spelunkery:saltpeter_block", "spelunkery:dust_block", "minecraft:soul_sand", "minecraft:sand", "minecraft:gravel", "minecraft:snow_block"
+    ],
+    "cookyourfood:ok_to_eat_raw": [
+      "onion_onion:onion_slice", 
+      "moredelight:bread_slice", 
+      "farmersdelight:fried_egg", 
+      "miners_delight:cave_carrot", 
+      "spelunkery:portabella",
+      "farmersdelight:glow_berry_custard"
+    ],
+    "cookyourfood:raw_food_light": [
+      "born_in_chaos_v1:rotten_fish"
+    ],
+    "cookyourfood:raw_food_severe": [
+      "butcher:rawdragonmeat",
+      "butcher:raweldermeat"
+    ],
+    "forge:dusts/sulfur": [
+      "vintageimprovements:sulfur",
+      "butcher:sulfur",
+      "tfmg:sulfur_dust",
+      "spelunkery:sulfur"
+    ],
+    "forge:storage_blocks": [
+      "vintageimprovements:sulfur_block",
+      "spelunkery:sulfur_block",
+      "alexscaves:sulfur",
+      "farmersdelight:rice_bag",
+      "cratedelight:wheat_flour_bag", 
+      "cratedelight:powdered_obsidian_bag", 
+      "cratedelight:cinder_flour_bag", 
+      "farmersdelight:carrot_crate", 
+      "farmersdelight:potato_crate", 
+      "farmersdelight:beetroot_crate", "farmersdelight:cabbage_crate", "farmersdelight:tomato_crate", "farmersdelight:onion_crate", "cratedelight:carrot_crate", "cratedelight:potato_crate", "cratedelight:beetroot_crate", "cratedelight:apple_crate", "cratedelight:berry_crate", "cratedelight:blueberry_crate", "cratedelight:glowberry_crate", "cratedelight:egg_crate", "cratedelight:duck_egg_crate", "cratedelight:emu_egg_crate", "cratedelight:terrapin_egg_crate", "cratedelight:crocodile_egg_crate", "cratedelight:caiman_egg_crate", "cratedelight:platypus_egg_crate", "cratedelight:kiwi_egg_crate", "cratedelight:kiwifruit_crate", "cratedelight:banana_crate", "cratedelight:salmon_crate", "cratedelight:cod_crate", "cratedelight:catfish_crate", "cratedelight:bass_crate", "cratedelight:red_mushroom_crate", "cratedelight:brown_mushroom_crate", "cratedelight:golden_carrot_crate", "cratedelight:golden_apple_crate", "cratedelight:cocoabeans_bag", 
+      "cratedelight:sugar_bag",
+      "minecraft:honeycomb_block", "spelunkery:rough_cinnabar_block", "spelunkery:rough_lazurite_block", "spelunkery:rough_emerald_block", "spelunkery:rough_diamond_block", "spelunkery:rough_quartz_block", "spelunkery:salt_block", "spelunkery:raw_magnetite_block", "spelunkery:dust_block", "supplementaries:feather_block", "supplementaries:soap_block", "architects_palette:ender_pearl_block", "architects_palette:rotten_flesh_block"    
+    ],
+    "forge:storage_blocks/sulfur": [
+      "vintageimprovements:sulfur_block",
+      "spelunkery:sulfur_block",
+      "alexscaves:sulfur"
+    ]
+  },
+  "tagOwnerships": {},
+  "itemTagInheritanceMode": "ALLOW",
+  "itemTagInheritance": {},
+  "blockTagInheritanceMode": "ALLOW",
+  "blockTagInheritance": {},
+  "ignoredTags": [],
+  "ignoredItems": [],
+  "ignoredRecipeTypes": [
+    "cucumber:shaped_tag"
+  ],
+  "ignoredRecipes": [],
+  "itemsHidingJeiRei": true
+}

@@ -1,0 +1,10 @@
+# First, ignore everything
+*
+!*/
+#Whitelist
+!/config/**
+/config/blockswap/known_states
+!/defaultconfigs/**
+!/kubejs/**
+!.gitignore
+!/.vscode/

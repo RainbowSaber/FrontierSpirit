@@ -1,0 +1,11 @@
+{
+    "type": "flowing_block",
+    "flowing": "molten_metals:flowing_molten_copper",
+    "blocks_nearby": [
+        "#minecraft:water"
+    ],
+    "result": {
+        "type": "block",
+        "block": "create:veridium"
+    }
+}

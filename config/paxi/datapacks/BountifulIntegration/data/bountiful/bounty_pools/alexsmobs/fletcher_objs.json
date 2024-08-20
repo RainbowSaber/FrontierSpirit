@@ -1,0 +1,52 @@
+
+{
+	"replace": false,
+    "content": {
+
+        "fletcher_obj_feather_emu": {
+            "type": "item",
+            "content": "alexsmobs:emu_feather",
+            "amount": {
+                "min": 4,
+                "max": 14
+            },
+            "unitWorth": 200,
+            "rarity": "UNCOMMON",
+            "weightMult": 0.2
+        },
+        "fletcher_obj_feather_roadrunner": {
+            "type": "item",
+            "content": "alexsmobs:roadrunner_feather",
+            "amount": {
+                "min": 4,
+                "max": 14
+            },
+            "unitWorth": 200,
+            "rarity": "UNCOMMON",
+            "weightMult": 0.2
+        },
+
+        
+        "fletcher_obj_roadrunner": {
+            "type": "entity",
+            "content": "alexsmobs:roadrunner",
+            "amount": {"min": 1,"max": 4},
+            "unitWorth": 1000,
+            "rarity": "RARE",
+            "weightMult": 0.2,
+            "timeMult": 3
+
+        },
+        "fletcher_obj_emu": {
+            "type": "entity",
+            "content": "alexsmobs:emu",
+            "amount": {"min": 1,"max": 5},
+            "unitWorth": 1000,
+            "rarity": "RARE",
+            "weightMult": 0.2,
+            "timeMult": 3
+        }
+
+	}
+
+}

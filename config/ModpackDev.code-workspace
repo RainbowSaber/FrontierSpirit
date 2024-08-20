@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../logs/kubejs"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/*.log": true,
+			"**/backups": true,
+			"**/configBackup2/": true,
+			"**/coremods/": true,
+			"**/crash-reports": true,
+			"**/debug": true,
+			"**/fancymenu_data/": true,
+			"**/immersive_paintings": true,
+			"**/immersive_paintings**": true,
+			"**/known_states/": true,
+			"**/local/": true,
+			"**/logs/": true,
+			"**/map_atlases/": true,
+			"**/moddata/": true,
+			"**/modernfix": true,
+			"**/mods": true,
+			"**/ModTranslations": true,
+			"**/patchouli_books/": true,
+			"**/paxi/resourcepacks": true,
+			"**/resourcepacks": true,
+			"**/saves": true,
+			"**/schematics": true,
+			"**/screenshots/": true,
+			"**/server-resource-packs": true,
+			"**/shaderpacks": true,
+			"**/texturepacks": true,
+			"**/trees/": true,
+			"blockswap/known_states": true,
+			"known_states": true
+		},
+		"json.schemas": [
+
+			{
+				"fileMatch": [
+					"**/data/bountiful/bounty_pools/**"
+				],
+				"url": "./bountiful/bountiful_pool_schema.json"
+			}
+		]
+	}
+}

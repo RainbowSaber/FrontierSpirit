@@ -1,0 +1,42 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Welcome to a new World"
+    },
+    "description": [
+      "Welcome to the Frontier.",
+      "",
+      "This Questbook will provide you a guide into the modpacks content as well as give you a rundown of all the changes and mechanics introduced to the game. There is a strong focus on cross mod integration and vertical progression, so these quests will not provide significant rewards outside of knowledge and will not serve as a primary objective. The Frontier is what you make of it."
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -285,
+          -209
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "astikorcarts:wheel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "The Frontier Spirit"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

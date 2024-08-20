@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../defaultconfigs"
+		},
+		{
+			"path": "../kubejs"
+		},
+		{
+			"path": "../logs/kubejs"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"known_states": true,
+			"blockswap/known_states": true,
+			"paxi\resourcepacks": true
+		}
+	}
+}

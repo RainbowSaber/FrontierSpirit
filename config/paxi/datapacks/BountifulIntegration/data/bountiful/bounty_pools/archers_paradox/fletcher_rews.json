@@ -1,0 +1,126 @@
+{
+    "requires": ["archers_paradox"],
+    "replace": false,
+    "content": {
+        "fletcher_rew_arrow_shulker": {
+            "type": "item",
+            "content": "archers_paradox:shulker_arrow",
+            "amount": {
+                "min": 8,
+                "max": 20
+            },
+            "unitWorth": 300,
+            "rarity": "RARE"
+        },
+        "fletcher_rew_arrow_blaze": {
+            "type": "item",
+            "content": "archers_paradox:blaze_arrow",
+            "amount": {
+                "min": 8,
+                "max": 20
+            },
+            "unitWorth": 300,
+            "rarity": "RARE"
+            
+        },
+        "fletcher_rew_arrow_arrow": {
+            "type": "item",
+            "content": "archers_paradox:frost_arrow",
+            "amount": {
+                "min": 8,
+                "max": 20
+            },
+            "unitWorth": 300,
+            "rarity": "RARE"
+        },
+        "fletcher_rew_arrow_lightning": {
+            "type": "item",
+            "content": "archers_paradox:lightning_arrow",
+            "amount": {
+                "min": 8,
+                "max": 20
+            },
+            "unitWorth": 300,
+            "rarity": "RARE"
+        },
+        "fletcher_rew_explosive": {
+            "type": "item",
+            "content": "archers_paradox:explosive_arrow",
+            "amount": {
+                "min": 4,
+                "max": 8
+            },
+            "unitWorth": 1000,
+            "rarity": "EPIC"
+        },
+        "fletcher_rew_quartz": {
+            "type": "item",
+            "content": "archers_paradox:quartz_arrow",
+            "amount": {
+                "min": 8,
+                "max": 16
+            },
+            "unitWorth": 150,
+            "rarity": "UNCOMMON"
+        },
+        "fletcher_rew_arrow_diamond": {
+            "type": "item",
+            "content": "archers_paradox:diamond_arrow",
+            "amount": {
+                "min": 2,
+                "max": 16
+            },
+            "unitWorth": 600,
+            "rarity": "RARE"
+        },
+        "fletcher_rew_arrow_prismarine": {
+            "type": "item",
+            "content": "archers_paradox:prismarine_arrow",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "rarity": "UNCOMMON",
+            "unitWorth": 280
+        },
+        "fletcher_rew_arrow_slime": {
+            "type": "item",
+            "content": "archers_paradox:slime_arrow",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "rarity": "UNCOMMON",
+            "unitWorth": 280
+        },
+        "fletcher_rew_arrow_ender": {
+            "type": "item",
+            "content": "archers_paradox:ender_arrow",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "rarity": "RARE",
+            "unitWorth": 400
+        },
+        "fletcher_rew_arrow_training": {
+            "type": "item",
+            "content": "archers_paradox:training_arrow",
+            "amount": {
+                "min": 8,
+                "max": 20
+            },
+            "unitWorth": 70
+        },
+        "fletcher_rew_arrow_phantasm": {
+            "type": "item",
+            "content": "archers_paradox:phantasmal_arrow",
+            "amount": {
+                "min": 8,
+                "max": 16
+            },
+            "unitWorth": 400,
+            "rarity": "RARE"
+        }
+    }
+}
