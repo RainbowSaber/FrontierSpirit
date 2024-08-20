@@ -8,3 +8,4 @@
 !/kubejs/**
 !.gitignore
 !/.vscode/
+!/modlist.json

@@ -1,0 +1,2229 @@
+[
+    {
+        "name": "Fast Suite",
+        "url": "https://www.curseforge.com/projects/475117",
+        "version": "5.0.1"
+    },
+    {
+        "name": "Accessories Trinkets Compat Layer",
+        "url": "https://modrinth.com/mod/TkWgV1AW",
+        "version": "3.8.1+beta.4"
+    },
+    {
+        "name": "Liquid Burner",
+        "url": "https://modrinth.com/mod/kDFtUgr8",
+        "version": "0.5"
+    },
+    {
+        "name": "Charm of Undying",
+        "url": "https://modrinth.com/mod/b5GyyYkp",
+        "version": "6.5.0+1.20.1"
+    },
+    {
+        "name": "Create Slice & Dice",
+        "url": "https://modrinth.com/mod/GmjmRQ0A",
+        "version": "3.2.1"
+    },
+    {
+        "name": "Better Clouds",
+        "url": "https://modrinth.com/mod/5srFLIaK",
+        "version": "1.3.17+1.20.1"
+    },
+    {
+        "name": "CoroUtil",
+        "url": "https://modrinth.com/mod/rLLJ1OZM",
+        "version": "1.20.1-1.3.7"
+    },
+    {
+        "name": "Quark",
+        "url": "https://modrinth.com/mod/qnQsVE2z",
+        "version": "4.0-460\r"
+    },
+    {
+        "name": "Mob Plaques",
+        "url": "https://modrinth.com/mod/3b1CFIR5",
+        "version": "8.0.1"
+    },
+    {
+        "name": "Create: Dreams & Desires",
+        "url": "https://modrinth.com/mod/JmybsfWs",
+        "version": "0.1b.Release-Early-Dev\r"
+    },
+    {
+        "name": "Placebo",
+        "url": "https://www.curseforge.com/projects/283644",
+        "version": "8.6.2"
+    },
+    {
+        "name": "Citadel",
+        "url": "https://modrinth.com/mod/jJfV67b1",
+        "version": "2.5.6"
+    },
+    {
+        "name": "Create: Connected",
+        "url": "https://modrinth.com/mod/Vg5TIO6d",
+        "version": "0.8.2-mc1.20.1"
+    },
+    {
+        "name": "Small Ships",
+        "url": "https://modrinth.com/mod/rGWEHQrP",
+        "version": "2.0.0-b1.4"
+    },
+    {
+        "name": "Athena",
+        "url": "https://modrinth.com/mod/b1ZV3DIJ",
+        "version": "3.1.2"
+    },
+    {
+        "name": "3d-Skin-Layers",
+        "url": "https://modrinth.com/mod/zV5r3pPn",
+        "version": "1.6.6"
+    },
+    {
+        "name": "memorysettings mod",
+        "url": "https://www.curseforge.com/projects/526901",
+        "version": "1.20.1-5.5\r"
+    },
+    {
+        "name": "Scholar",
+        "url": "https://modrinth.com/mod/fX4dIQCo",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Spelunkery",
+        "url": "https://modrinth.com/mod/krskFMfA",
+        "version": "1.20.1-0.3.6"
+    },
+    {
+        "name": "Roughly Enough Items (REI)",
+        "url": "https://modrinth.com/mod/nfn13YXA",
+        "version": "12.1.750"
+    },
+    {
+        "name": "Wall-Jump TXF",
+        "url": "https://modrinth.com/mod/oUoetxfR",
+        "version": "1.20.1-1.2.1-forge"
+    },
+    {
+        "name": "Born In Configuration",
+        "url": "https://modrinth.com/mod/8rGW0cNk",
+        "version": "1.4"
+    },
+    {
+        "name": "Krypton Reforged",
+        "url": "https://www.curseforge.com/projects/549394",
+        "version": "0.2.3"
+    },
+    {
+        "name": "Buzzier Bees",
+        "url": "https://modrinth.com/mod/b7vOFSIp",
+        "version": "6.0.0\r"
+    },
+    {
+        "name": "Hourglass",
+        "url": "https://modrinth.com/mod/1ZqmoFFP",
+        "version": "1.2.1.1"
+    },
+    {
+        "name": "Create: Numismatics",
+        "url": "https://modrinth.com/mod/Jdbbtt0i",
+        "version": "1.0.6+forge-mc1.20.1"
+    },
+    {
+        "name": "Oculus",
+        "url": "https://modrinth.com/mod/GchcoXML",
+        "version": "1.7.0"
+    },
+    {
+        "name": "BetterBurning",
+        "url": "https://modrinth.com/mod/uNBP8Xul",
+        "version": "9.0.2"
+    },
+    {
+        "name": "Just Enough Effects Descriptions",
+        "url": "https://modrinth.com/mod/EO27GKs1",
+        "version": "1.20-2.2.2"
+    },
+    {
+        "name": "Nyf's Spiders",
+        "url": "https://modrinth.com/mod/dOGM7ccu",
+        "version": "2.1.1"
+    },
+    {
+        "name": "Packet Fixer",
+        "url": "https://modrinth.com/mod/c7m1mi73",
+        "version": "1.4.2"
+    },
+    {
+        "name": "Moonlight Library",
+        "url": "https://modrinth.com/mod/twkfQtEc",
+        "version": "1.20-2.12.11"
+    },
+    {
+        "name": "Rhino",
+        "url": "https://modrinth.com/mod/sk9knFPE",
+        "version": "2001.2.2-build.18"
+    },
+    {
+        "name": "Experimental Settings Disabler",
+        "url": "https://modrinth.com/mod/Dafp0il6",
+        "version": "3.0"
+    },
+    {
+        "name": "Ding",
+        "url": "https://modrinth.com/mod/UEtTD3gP",
+        "version": "1.5.0"
+    },
+    {
+        "name": "Better Trees",
+        "url": "https://modrinth.com/mod/cfXIpi12",
+        "version": "1.8"
+    },
+    {
+        "name": "Eccentric Tome",
+        "url": "https://modrinth.com/mod/ZtdULK5c",
+        "version": "1.20.1-1.10.2"
+    },
+    {
+        "name": "Create: Molten Metallurgy",
+        "url": "https://modrinth.com/mod/16yGFyDF",
+        "version": "1.0.0"
+    },
+    {
+        "name": "MoreLapis",
+        "url": "https://modrinth.com/mod/3n8DlVfJ",
+        "version": "1.1\r"
+    },
+    {
+        "name": "Legacies and Legends",
+        "url": "https://modrinth.com/mod/rJvxBgdw",
+        "version": "1.3.7"
+    },
+    {
+        "name": "Bury Me Deep",
+        "url": "https://modrinth.com/mod/Sa8lEyhX",
+        "version": "1.0.3\r"
+    },
+    {
+        "name": "Timber Frames",
+        "url": "https://modrinth.com/mod/M7N4aD7O",
+        "version": "2.0.0"
+    },
+    {
+        "name": "Bocchium",
+        "url": "https://www.curseforge.com/projects/905450",
+        "version": "1.20.1-0.0.3"
+    },
+    {
+        "name": "Tectonic",
+        "url": "https://modrinth.com/mod/lWDHr9jE",
+        "version": "2.3.5a"
+    },
+    {
+        "name": "Nullscape",
+        "url": "https://modrinth.com/mod/LPjGiSO4",
+        "version": "1.2.7"
+    },
+    {
+        "name": "Labels",
+        "url": "https://modrinth.com/mod/x6r7yhfi",
+        "version": "1.20-1.20.1"
+    },
+    {
+        "name": "Embeddium Extra",
+        "url": "https://modrinth.com/mod/oY2B1pjg",
+        "version": "0.5.4.3+mc1.20.1-build.121"
+    },
+    {
+        "name": "Damage Numbers",
+        "url": "https://modrinth.com/mod/iWdXs2dQ",
+        "version": "1.4.0-forge"
+    },
+    {
+        "name": "MasterCutter",
+        "url": "https://modrinth.com/mod/mastercutter",
+        "version": "1.1"
+    },
+    {
+        "name": "Fast Portals",
+        "url": "https://modrinth.com/mod/HTSaaFuA",
+        "version": "1.0.3"
+    },
+    {
+        "name": "InsaneLib",
+        "url": "https://modrinth.com/mod/USZyvOJq",
+        "version": "1.13.5\r"
+    },
+    {
+        "name": "William Wythers Overhauled Overworld [FORGE]",
+        "url": "https://modrinth.com/mod/II7t6llZ",
+        "version": "2.0.0"
+    },
+    {
+        "name": "More Banner Features",
+        "url": "https://modrinth.com/mod/FOaR4sIZ",
+        "version": "1.2.0"
+    },
+    {
+        "name": "chunksending mod",
+        "url": "https://www.curseforge.com/projects/831663",
+        "version": "1.20.1-2.8\r"
+    },
+    {
+        "name": "Spyglass Improvements",
+        "url": "https://modrinth.com/mod/Z6ykjRlM",
+        "version": "1.5+mc1.20+forge"
+    },
+    {
+        "name": "Embeddium",
+        "url": "https://modrinth.com/mod/sk9rgfiA",
+        "version": "0.3.29+mc1.20.1"
+    },
+    {
+        "name": "Unlit Campfire",
+        "url": "https://modrinth.com/mod/yENm0xnb",
+        "version": "1.20.1-1.9.0.3"
+    },
+    {
+        "name": "Visuality: Reforged",
+        "url": "https://modrinth.com/mod/z13R7Et1",
+        "version": "2.0.2"
+    },
+    {
+        "name": "Incendium",
+        "url": "https://modrinth.com/mod/ZVzW5oNS",
+        "version": "5.3.5"
+    },
+    {
+        "name": "Explosive Enhancement",
+        "url": "https://modrinth.com/mod/r0camchr",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Splash Milk",
+        "url": "https://modrinth.com/mod/ELrdP6OH",
+        "version": "2.1.0"
+    },
+    {
+        "name": "Iceberg",
+        "url": "https://modrinth.com/mod/5faXoLqX",
+        "version": "1.1.21\r"
+    },
+    {
+        "name": "Sidekick",
+        "url": "https://modrinth.com/mod/goA2JoBi",
+        "version": "2.0.5+1.20.1"
+    },
+    {
+        "name": "Create Contraption Terminals",
+        "url": "https://modrinth.com/mod/gOPAFzp0",
+        "version": "1.0.0\r"
+    },
+    {
+        "name": "Create: Enchantable Machinery",
+        "url": "https://modrinth.com/mod/eqrvp4NK",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Loot Journal",
+        "url": "https://www.curseforge.com/projects/700723",
+        "version": "3.1.1"
+    },
+    {
+        "name": "YUNG's Better Mineshafts",
+        "url": "https://modrinth.com/mod/HjmxVlSr",
+        "version": "1.20-Forge-4.0.4"
+    },
+    {
+        "name": "CoFH Core",
+        "url": "https://modrinth.com/mod/OWSRM4vD",
+        "version": "11.0.2"
+    },
+    {
+        "name": "Create: Copycats+",
+        "url": "https://modrinth.com/mod/UT2M39wf",
+        "version": "2.1.2+mc.1.20.1-forge"
+    },
+    {
+        "name": "Neko's Enchanted Books",
+        "url": "https://modrinth.com/mod/VZWuyRVr",
+        "version": "1.8.0\r"
+    },
+    {
+        "name": "Bushier Flowers",
+        "url": "https://modrinth.com/mod/OK421ZCh",
+        "version": "0.0.3-1.20.1"
+    },
+    {
+        "name": "Forgified Fabric API",
+        "url": "https://modrinth.com/mod/Aqlf1Shp",
+        "version": "0.92.2+1.11.8+1.20.1\r"
+    },
+    {
+        "name": "Chefs Delight",
+        "url": "https://modrinth.com/mod/pvcsfne4",
+        "version": "1.0.3-forge-1.20.1\r"
+    },
+    {
+        "name": "Block Swap",
+        "url": "https://modrinth.com/mod/f9kXyjJX",
+        "version": "5.0.0.0\r"
+    },
+    {
+        "name": "Create: Design n' Decor",
+        "url": "https://modrinth.com/mod/x49wilh8",
+        "version": "0.4.0b"
+    },
+    {
+        "name": "Map Atlases",
+        "url": "https://www.curseforge.com/projects/519759",
+        "version": "1.20-6.0.9"
+    },
+    {
+        "name": "Blur (Forge)",
+        "url": "https://modrinth.com/mod/o4Wx4DUB",
+        "version": "3.1.1"
+    },
+    {
+        "name": "Seamless",
+        "url": "https://modrinth.com/mod/rhyHyQke",
+        "version": "2.2.2"
+    },
+    {
+        "name": "Particular",
+        "url": "https://modrinth.com/mod/B1CcCd9h",
+        "version": "1.1.1"
+    },
+    {
+        "name": "Sooty Chimneys",
+        "url": "https://modrinth.com/mod/b3w1XM9H",
+        "version": "1.2.1\r"
+    },
+    {
+        "name": "Block Swapper",
+        "url": "https://modrinth.com/mod/x2mWd1LL",
+        "version": "2.0"
+    },
+    {
+        "name": "Create: Jetpack Curios",
+        "url": "https://modrinth.com/mod/BBhCMftF",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Polymorph",
+        "url": "https://modrinth.com/mod/tagwiZkJ",
+        "version": "0.49.5+1.20.1"
+    },
+    {
+        "name": "NotEnoughAnimations",
+        "url": "https://modrinth.com/mod/MPCX6s5C",
+        "version": "1.7.4"
+    },
+    {
+        "name": "FancyMenu",
+        "url": "https://modrinth.com/mod/Wq5SjeWM",
+        "version": "3.2.3"
+    },
+    {
+        "name": "Another Liquid Milk Mod",
+        "url": "https://modrinth.com/mod/Rg44Gane",
+        "version": "1.0.2\r"
+    },
+    {
+        "name": "Structure Gel API",
+        "url": "https://modrinth.com/mod/T8TGycIQ",
+        "version": "2.16.2\r"
+    },
+    {
+        "name": "YUNG's Better Nether Fortresses",
+        "url": "https://modrinth.com/mod/Z2mXHnxP",
+        "version": "1.20-Forge-2.0.6"
+    },
+    {
+        "name": "AppleSkin",
+        "url": "https://modrinth.com/mod/EsAfCjCV",
+        "version": "2.5.1+mc1.20.1\r"
+    },
+    {
+        "name": "Supplementaries Squared",
+        "url": "https://modrinth.com/mod/dCCkNFwE",
+        "version": "1.20-1.1.14"
+    },
+    {
+        "name": "Stat Tinkerer",
+        "url": "https://modrinth.com/mod/UAfajCcY",
+        "version": "10.1.3"
+    },
+    {
+        "name": "Alexs Mobs Interaction",
+        "url": "https://modrinth.com/mod/cQPcBgTD",
+        "version": "3.4"
+    },
+    {
+        "name": "FancyBlockParticles",
+        "url": "https://modrinth.com/mod/S2guHrs2",
+        "version": "20.1.0.2-beta"
+    },
+    {
+        "name": "Farmer's Respite",
+        "url": "https://www.curseforge.com/projects/551453",
+        "version": "1.20.1-2.1"
+    },
+    {
+        "name": "Clockpass",
+        "url": "https://modrinth.com/mod/c8rrs5Ci",
+        "version": "1.7.5"
+    },
+    {
+        "name": "KubeJS Addditions (Forge)",
+        "url": "https://modrinth.com/mod/BZemjxZb",
+        "version": "4.3.2"
+    },
+    {
+        "name": "Controlling",
+        "url": "https://www.curseforge.com/projects/250398",
+        "version": "12.0.2\r"
+    },
+    {
+        "name": "Bountiful",
+        "url": "https://modrinth.com/mod/BpwWFOVM",
+        "version": "6.0.3+1.20.1"
+    },
+    {
+        "name": "Every Compat",
+        "url": "https://modrinth.com/mod/eiktJyw1",
+        "version": "1.20-2.6.71"
+    },
+    {
+        "name": "Oculus Flywheel Compat",
+        "url": "https://www.curseforge.com/projects/659897",
+        "version": "1.1.2"
+    },
+    {
+        "name": "Spelunker's Charm",
+        "url": "https://www.curseforge.com/projects/886997",
+        "version": "3.6.0"
+    },
+    {
+        "name": "TexTrue's Embeddium Options",
+        "url": "https://modrinth.com/mod/S1tndFDa",
+        "version": "0.1.5+mc1.20.1"
+    },
+    {
+        "name": "Better Statistics Screen",
+        "url": "https://modrinth.com/mod/n6PXGAoM",
+        "version": "3.9.2+fabric-1.20.1"
+    },
+    {
+        "name": "Neruina",
+        "url": "https://modrinth.com/mod/1s5x833P",
+        "version": "2.1.1"
+    },
+    {
+        "name": "Thin Air",
+        "url": "https://modrinth.com/mod/ll2RO0er",
+        "version": "8.1.5"
+    },
+    {
+        "name": "Dramatic Doors",
+        "url": "https://modrinth.com/mod/aQ7h7gal",
+        "version": "1.20.1-3.2.3"
+    },
+    {
+        "name": "AttributeFix",
+        "url": "https://modrinth.com/mod/lOOpEntO",
+        "version": "21.0.4"
+    },
+    {
+        "name": "Just Enough Beacons",
+        "url": "https://modrinth.com/mod/fgqpjvEk",
+        "version": "1.2.0"
+    },
+    {
+        "name": "MaxHealthFix",
+        "url": "https://modrinth.com/mod/mH8wdmqr",
+        "version": "12.0.3"
+    },
+    {
+        "name": "Chunky",
+        "url": "https://modrinth.com/mod/fALzjamp",
+        "version": "1.3.146"
+    },
+    {
+        "name": "Classic Capes",
+        "url": "https://www.curseforge.com/projects/904868",
+        "version": "2.0.0"
+    },
+    {
+        "name": "Rogues & Warriors (RPG Series)",
+        "url": "https://modrinth.com/mod/3MKqoGuP",
+        "version": "1.1.0+1.20.1"
+    },
+    {
+        "name": "Create",
+        "url": "https://modrinth.com/mod/LNytGWDc",
+        "version": "0.5.1.f\r"
+    },
+    {
+        "name": "HT's TreeChop",
+        "url": "https://modrinth.com/mod/gHoB7SHO",
+        "version": "0.18.8"
+    },
+    {
+        "name": "Tetra's Delight",
+        "url": "https://modrinth.com/mod/TVhC6ZPD",
+        "version": "1.20.1-1"
+    },
+    {
+        "name": "The Conjurer",
+        "url": "https://modrinth.com/mod/84MLqQxZ",
+        "version": "1.1.6\r"
+    },
+    {
+        "name": "Traveler's Titles",
+        "url": "https://modrinth.com/mod/JtifUr64",
+        "version": "1.20-Forge-4.0.2"
+    },
+    {
+        "name": "Alex's Mobs EXTRA Music",
+        "url": "https://modrinth.com/mod/ynxotL0Y",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Advanced Backups",
+        "url": "https://modrinth.com/mod/Jrmoreqs",
+        "version": "3.6"
+    },
+    {
+        "name": "Bookshelf",
+        "url": "https://modrinth.com/mod/uy4Cnpcm",
+        "version": "20.2.13"
+    },
+    {
+        "name": "Bedrock Ores",
+        "url": "https://modrinth.com/mod/KCMBVtfE",
+        "version": "2.1.0"
+    },
+    {
+        "name": "Funky Fluids",
+        "url": "https://modrinth.com/mod/G0RU3iXJ",
+        "version": "1.20.1-1.1.1"
+    },
+    {
+        "name": "McJtyLib",
+        "url": "https://modrinth.com/mod/1Zu0uTEE",
+        "version": "1.20-8.0.6\r"
+    },
+    {
+        "name": "ProbeJS",
+        "url": "https://modrinth.com/mod/JJNYRb4B",
+        "version": "7.0.0"
+    },
+    {
+        "name": "YDM's Weapon Master",
+        "url": "https://modrinth.com/mod/qi1sj2da",
+        "version": "4.2.3"
+    },
+    {
+        "name": "Jade Addons",
+        "url": "https://modrinth.com/mod/xuDOzCLy",
+        "version": "5.3.0+forge\r"
+    },
+    {
+        "name": "Gravity, Gourds, and You",
+        "url": "https://modrinth.com/mod/5x8HNYKM",
+        "version": "2.0.0\r"
+    },
+    {
+        "name": "Easy Magic",
+        "url": "https://modrinth.com/mod/9hx3AbJM",
+        "version": "8.0.1"
+    },
+    {
+        "name": "Balanced Crates",
+        "url": "https://www.curseforge.com/projects/641089",
+        "version": "1.7.71"
+    },
+    {
+        "name": "Create: Balanced Flight",
+        "url": "https://www.curseforge.com/projects/538560",
+        "version": "1.20.1_v2.3.0\r"
+    },
+    {
+        "name": "Librarian's Balance",
+        "url": "https://modrinth.com/mod/SoL6FwNo",
+        "version": "1.2"
+    },
+    {
+        "name": "BetterF3",
+        "url": "https://modrinth.com/mod/8shC1gFX",
+        "version": "7.0.2"
+    },
+    {
+        "name": "Tom's Simple Storage Mod",
+        "url": "https://modrinth.com/mod/XZNI4Cpy",
+        "version": "1.6.8\r"
+    },
+    {
+        "name": "ForgeSkyboxes",
+        "url": "https://modrinth.com/mod/QEF20av3",
+        "version": "0.0.2-1.20.2"
+    },
+    {
+        "name": "GeckoLib 4",
+        "url": "https://modrinth.com/mod/8BmcQJ2H",
+        "version": "4.4.7"
+    },
+    {
+        "name": "Balm",
+        "url": "https://www.curseforge.com/projects/531761",
+        "version": "7.3.7"
+    },
+    {
+        "name": "Supplementaries",
+        "url": "https://modrinth.com/mod/fFEIiSDQ",
+        "version": "1.20-2.8.17"
+    },
+    {
+        "name": "Create: Steam 'n' Rails",
+        "url": "https://modrinth.com/mod/ZzjhlDgM",
+        "version": "1.6.4+forge-mc1.20.1"
+    },
+    {
+        "name": "BadOptimizations",
+        "url": "https://modrinth.com/mod/g96Z4WVZ",
+        "version": "2.1.4"
+    },
+    {
+        "name": "Create: Pattern Schematics",
+        "url": "https://modrinth.com/mod/cpqKG67r",
+        "version": "1.1.10+forge-1.20.1"
+    },
+    {
+        "name": "AzureLib Armor",
+        "url": "https://modrinth.com/mod/pduQXSbl",
+        "version": "2.0.6\r"
+    },
+    {
+        "name": "CorgiLib",
+        "url": "https://modrinth.com/mod/ziOp6EO8",
+        "version": "4.0.1.3\r"
+    },
+    {
+        "name": "Konkrete",
+        "url": "https://modrinth.com/mod/J81TRJWm",
+        "version": "1.8.0"
+    },
+    {
+        "name": "Overweight Farming",
+        "url": "https://modrinth.com/mod/bCxmmxKN",
+        "version": "1.20.1-2.1.0-forge"
+    },
+    {
+        "name": "iChunUtil",
+        "url": "https://modrinth.com/mod/W6ROj0Hl",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Farsight mod",
+        "url": "https://www.curseforge.com/projects/495693",
+        "version": "1.20.1-3.7\r"
+    },
+    {
+        "name": "Auto HUD",
+        "url": "https://modrinth.com/mod/temczoTQ",
+        "version": "6.3.6+1.20.1"
+    },
+    {
+        "name": "Clayworks",
+        "url": "https://www.curseforge.com/projects/592162",
+        "version": "3.0.1\r"
+    },
+    {
+        "name": "Tidal Towns",
+        "url": "https://modrinth.com/mod/EEIwvQVo",
+        "version": "1.3.3"
+    },
+    {
+        "name": "Create Air",
+        "url": "https://modrinth.com/mod/sbuRwhB5",
+        "version": "1.0"
+    },
+    {
+        "name": "Frame Changer",
+        "url": "https://modrinth.com/mod/597XsRkb",
+        "version": "2.0.0\r"
+    },
+    {
+        "name": "NetherPortalFix",
+        "url": "https://modrinth.com/mod/nPZr02ET",
+        "version": "13.0.1"
+    },
+    {
+        "name": "Miner's Delight",
+        "url": "https://modrinth.com/mod/qMxbM4BQ",
+        "version": "1.20.1-1.2.3\r"
+    },
+    {
+        "name": "Presence Footsteps (Forge)",
+        "url": "https://www.curseforge.com/projects/433068",
+        "version": "1.20.1-1.9.1-beta.1"
+    },
+    {
+        "name": "Path To Dirt",
+        "url": "https://www.curseforge.com/projects/373323",
+        "version": "1.7.4-mc1.20.1\r"
+    },
+    {
+        "name": "Puzzles Lib",
+        "url": "https://modrinth.com/mod/QAGBst4M",
+        "version": "8.1.21"
+    },
+    {
+        "name": "Brazier",
+        "url": "https://modrinth.com/mod/5okEW6TG",
+        "version": "6.1.1"
+    },
+    {
+        "name": "Kotlin for Forge",
+        "url": "https://modrinth.com/mod/ordsPcFz",
+        "version": "hmeyC41q"
+    },
+    {
+        "name": "Resourceful Lib",
+        "url": "https://modrinth.com/mod/G1hIVOrD",
+        "version": "2.1.28"
+    },
+    {
+        "name": "Enhanced Celestials",
+        "url": "https://modrinth.com/mod/2rL16t1O",
+        "version": "5.0.0.4\r"
+    },
+    {
+        "name": "Create: Oppenheimered",
+        "url": "https://modrinth.com/mod/7qOxePw2",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Smooth Boot (Reloaded)",
+        "url": "https://modrinth.com/mod/z53V2L4P",
+        "version": "0.0.4"
+    },
+    {
+        "name": "Sound Physics Remastered",
+        "url": "https://www.curseforge.com/projects/535489",
+        "version": "1.20.1-1.4.5"
+    },
+    {
+        "name": "Spawners Drop Treasure",
+        "url": "https://modrinth.com/datapack/spawners-drop-treasure",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Radiant Gear",
+        "url": "https://modrinth.com/mod/AtT9wm5O",
+        "version": "2.1.5+1.20.1"
+    },
+    {
+        "name": "OneShotProtection",
+        "url": "https://modrinth.com/mod/oSVKq68y",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Distant Horizons",
+        "url": "https://modrinth.com/mod/uCdwusMi",
+        "version": "2.1.2-a"
+    },
+    {
+        "name": "Daily Rewards",
+        "url": "https://modrinth.com/mod/IsAmLg1d",
+        "version": "5.3.0\r"
+    },
+    {
+        "name": "Paxi",
+        "url": "https://modrinth.com/mod/CU0PAyzb",
+        "version": "1.20-Forge-4.0"
+    },
+    {
+        "name": "Curios Quark Oddities Backpack",
+        "url": "https://www.curseforge.com/projects/445208",
+        "version": "1.2.5\r"
+    },
+    {
+        "name": "Create: The Factory Must Grow",
+        "url": "https://modrinth.com/mod/USgVjXsk",
+        "version": "0.9.0d"
+    },
+    {
+        "name": "Open Parties and Claims",
+        "url": "https://modrinth.com/mod/gF3BGWvG",
+        "version": "0.23.2"
+    },
+    {
+        "name": "True Darkness",
+        "url": "https://modrinth.com/mod/mI4xkilT",
+        "version": "2.0.103"
+    },
+    {
+        "name": "Vein Mining",
+        "url": "https://modrinth.com/mod/bRAPbNyF",
+        "version": "1.5.0+1.20.1"
+    },
+    {
+        "name": "YetAnotherConfigLib",
+        "url": "https://modrinth.com/mod/1eAoo2KR",
+        "version": "3.5.0+1.20.1-forge"
+    },
+    {
+        "name": "Entity Texture Features",
+        "url": "https://modrinth.com/mod/BVzZfTc1",
+        "version": "6.1.4"
+    },
+    {
+        "name": "Solid Mobs",
+        "url": "https://modrinth.com/mod/uEXYxtEF",
+        "version": "1.7.1"
+    },
+    {
+        "name": "Heartstone",
+        "url": "https://modrinth.com/mod/NBY6AFje",
+        "version": "1.20-1.3.0"
+    },
+    {
+        "name": "LootBeams",
+        "url": "https://modrinth.com/mod/QWTmZu53",
+        "version": "1.20.1"
+    },
+    {
+        "name": "Diagonal Fences",
+        "url": "https://modrinth.com/mod/IKARgflD",
+        "version": "8.1.4"
+    },
+    {
+        "name": "vanillaIcecreamFix",
+        "url": "https://www.curseforge.com/projects/817119",
+        "version": "1.0.0-forge-beta"
+    },
+    {
+        "name": "Fastload-Reforged",
+        "url": "https://modrinth.com/mod/kCpssoSb",
+        "version": "3.4.0"
+    },
+    {
+        "name": "KubeJSREIRuntime",
+        "url": "https://www.curseforge.com/projects/831817",
+        "version": "1.0\r"
+    },
+    {
+        "name": "Bigger Stacks",
+        "url": "https://modrinth.com/mod/hcK0pdrI",
+        "version": "1.20.1-1.0.0\r"
+    },
+    {
+        "name": "YUNG's Better Ocean Monuments",
+        "url": "https://modrinth.com/mod/3dT9sgt4",
+        "version": "1.20-Forge-3.0.4"
+    },
+    {
+        "name": "Tetratic Combat Expanded",
+        "url": "https://modrinth.com/mod/gKU2sJEW",
+        "version": "2.7.2\r"
+    },
+    {
+        "name": "Farmer's Delight",
+        "url": "https://modrinth.com/mod/R2OftAxM",
+        "version": "1.20.1-1.2.4"
+    },
+    {
+        "name": "Workshop for handsome adventurer",
+        "url": "https://modrinth.com/mod/6lu9blWp",
+        "version": "1.15.1"
+    },
+    {
+        "name": "Redirector",
+        "url": "https://modrinth.com/mod/nzRWPE5v",
+        "version": "5.0.0"
+    },
+    {
+        "name": "accessories_cclayer-7.4.0-beta.7+1.20.1",
+        "version": "7.4.0+1.20.1"
+    },
+    {
+        "name": "Exposure",
+        "url": "https://modrinth.com/mod/hB899VmG",
+        "version": "1.7.5"
+    },
+    {
+        "name": "Combat Bash",
+        "url": "https://modrinth.com/mod/eYOJnfc4",
+        "version": "1.2.1"
+    },
+    {
+        "name": "Heracles",
+        "url": "https://modrinth.com/mod/lo90fZoB",
+        "version": "1.1.13"
+    },
+    {
+        "name": "Another Furniture",
+        "url": "https://modrinth.com/mod/ulloLmqG",
+        "version": "1.20.1-3.0.1"
+    },
+    {
+        "name": "Quark Oddities",
+        "url": "https://modrinth.com/mod/qeEEslrN",
+        "version": "1.20.1"
+    },
+    {
+        "name": "Integrated Dungeons and Structures",
+        "url": "https://modrinth.com/mod/Z8OZShAU",
+        "version": "1.10.1+1.20.1\r"
+    },
+    {
+        "name": "Ender's Delight",
+        "url": "https://www.curseforge.com/projects/827163",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Ferrite Core",
+        "url": "https://modrinth.com/mod/uXXizFIs",
+        "version": "6.0.1\r"
+    },
+    {
+        "name": "Create: Structures",
+        "url": "https://modrinth.com/mod/IAnP4np7",
+        "version": "0.1.1"
+    },
+    {
+        "name": "KubeJS",
+        "url": "https://modrinth.com/mod/umyGl7zF",
+        "version": "2001.6.5-build.14"
+    },
+    {
+        "name": "Ratatouille",
+        "url": "https://modrinth.com/mod/XM0ifg8q",
+        "version": "1.0"
+    },
+    {
+        "name": "KubeJS Create",
+        "url": "https://modrinth.com/mod/T38eAZQC",
+        "version": "2001.2.5-build.2"
+    },
+    {
+        "name": "Milky Way",
+        "url": "https://modrinth.com/mod/Bp2dMRrt",
+        "version": "2.0.0\r"
+    },
+    {
+        "name": "Modern Minecarts",
+        "url": "https://www.curseforge.com/projects/972764",
+        "version": "1.1.0-1.20.1"
+    },
+    {
+        "name": "Towns and Towers",
+        "url": "https://modrinth.com/mod/DjLobEOy",
+        "version": "1.10.2\r"
+    },
+    {
+        "name": "Create Editions",
+        "url": "https://www.curseforge.com/projects/909651",
+        "version": "1.0.1"
+    },
+    {
+        "name": "Sleep Tight",
+        "url": "https://modrinth.com/mod/tNai0h2Y",
+        "version": "1.20-1.1.19"
+    },
+    {
+        "name": "Forgiving Void",
+        "url": "https://modrinth.com/mod/1vkzEZjE",
+        "version": "10.0.1"
+    },
+    {
+        "name": "Auto Leveling",
+        "url": "https://www.curseforge.com/projects/616126",
+        "version": "1.19b"
+    },
+    {
+        "name": "Roughly Enough Resources",
+        "url": "https://www.curseforge.com/projects/325625",
+        "version": "2.9.0"
+    },
+    {
+        "name": "Pro Placer",
+        "url": "https://modrinth.com/mod/LhK0LkWd",
+        "version": "8.0.2"
+    },
+    {
+        "name": "Immersive Weathering",
+        "url": "https://modrinth.com/mod/jkskOO9i",
+        "version": "1.20.1-2.0.1"
+    },
+    {
+        "name": "Delightful Sandwiches",
+        "url": "https://modrinth.com/mod/wmyqU46J",
+        "version": "1.20.1"
+    },
+    {
+        "name": "YUNG's Better Strongholds",
+        "url": "https://modrinth.com/mod/kidLKymU",
+        "version": "1.20-Forge-4.0.3"
+    },
+    {
+        "name": "Better Mob Combat",
+        "url": "https://modrinth.com/mod/KU8N7kPc",
+        "version": "1.1.1"
+    },
+    {
+        "name": "Jade",
+        "url": "https://modrinth.com/mod/nvQzSEkH",
+        "version": "11.9.4+forge\r"
+    },
+    {
+        "name": "Universal Bone Meal",
+        "url": "https://modrinth.com/mod/66VIiT1y",
+        "version": "8.0.1"
+    },
+    {
+        "name": "Create: Bells & Whistles",
+        "url": "https://modrinth.com/mod/gJ5afkVv",
+        "version": "0.4.3-1.20.x"
+    },
+    {
+        "name": "Grass Slabs, Carpets & Stairs",
+        "url": "https://www.curseforge.com/projects/565833",
+        "version": "1.3"
+    },
+    {
+        "name": "Inventory Essentials",
+        "url": "https://modrinth.com/mod/Boon8xwi",
+        "version": "8.2.6"
+    },
+    {
+        "name": "tetracelium",
+        "url": "https://modrinth.com/mod/rTvWs5Jz",
+        "version": "1.3.0"
+    },
+    {
+        "name": "Dungeons and Taverns Ancient City Overhaul",
+        "url": "https://modrinth.com/mod/DNuNq5bb",
+        "version": "1"
+    },
+    {
+        "name": "Gravestone Mod",
+        "url": "https://modrinth.com/mod/RYtXKJPr",
+        "version": "1.20.1-1.0.21"
+    },
+    {
+        "name": "Alex's Caves Delight",
+        "url": "https://modrinth.com/mod/c9CEGwyC",
+        "version": "1.0.11-1.20.1"
+    },
+    {
+        "name": "respawningdungeons mod",
+        "url": "https://www.curseforge.com/projects/969937",
+        "version": "1.20.1-2.5\r"
+    },
+    {
+        "name": "Global GameRules",
+        "url": "https://modrinth.com/mod/PIJSp01k",
+        "version": "8.0.0.11\r"
+    },
+    {
+        "name": "Architect's Palette",
+        "url": "https://modrinth.com/mod/vt0VyseM",
+        "version": "1.3.6.1"
+    },
+    {
+        "name": "Blueprint",
+        "url": "https://modrinth.com/mod/VsM5EDoI",
+        "version": "7.1.0"
+    },
+    {
+        "name": "Butcher",
+        "url": "https://modrinth.com/mod/6YfOmC9t",
+        "version": "2.5.1"
+    },
+    {
+        "name": "More Geodes Reforged",
+        "url": "https://modrinth.com/mod/UoWImNDD",
+        "version": "1.2.3"
+    },
+    {
+        "name": "Cold Sweat",
+        "url": "https://modrinth.com/mod/uXhSmPjd",
+        "version": "2.2.5.1\r"
+    },
+    {
+        "name": "What Are They Up To",
+        "url": "https://modrinth.com/mod/AtB5mHky",
+        "version": "1.20.1-1.1.3"
+    },
+    {
+        "name": "Visual Workbench",
+        "url": "https://modrinth.com/mod/kfqD1JRw",
+        "version": "8.0.0"
+    },
+    {
+        "name": "ItemLocks",
+        "url": "https://modrinth.com/mod/tJzrFuyy",
+        "version": "1.20.1-1.3.8"
+    },
+    {
+        "name": "YUNG's Better Dungeons",
+        "url": "https://modrinth.com/mod/o1C1Dkj5",
+        "version": "1.20-Forge-4.0.4"
+    },
+    {
+        "name": "Resourcefulconfig",
+        "url": "https://modrinth.com/mod/M1953qlQ",
+        "version": "2.1.2"
+    },
+    {
+        "name": "Economical Villager Trading",
+        "url": "https://modrinth.com/mod/MpaztjRf",
+        "version": "1.2.10"
+    },
+    {
+        "name": "Searchables",
+        "url": "https://www.curseforge.com/projects/858542",
+        "version": "1.0.3\r"
+    },
+    {
+        "name": "Create: Wizardry",
+        "url": "https://modrinth.com/mod/OeGdeWEj",
+        "version": "0.2.3"
+    },
+    {
+        "name": "Universal Sawmill",
+        "url": "https://modrinth.com/mod/WRaRZdTd",
+        "version": "1.20-1.4.3"
+    },
+    {
+        "name": "Archer's Paradox",
+        "url": "https://modrinth.com/mod/euzGeN6k",
+        "version": "5.0.0"
+    },
+    {
+        "name": "Saturn",
+        "url": "https://modrinth.com/mod/2eT495vq",
+        "version": "0.1.3"
+    },
+    {
+        "name": "Sinytra Connector",
+        "url": "https://modrinth.com/mod/u58R1TMW",
+        "version": "j0igWmaL"
+    },
+    {
+        "name": "Logprot",
+        "url": "https://www.curseforge.com/projects/358304",
+        "version": "1.4"
+    },
+    {
+        "name": "Create: Central Kitchen",
+        "url": "https://modrinth.com/mod/btq68HMO",
+        "version": "1.3.12\r"
+    },
+    {
+        "name": "mutil",
+        "url": "https://modrinth.com/mod/HWHl8Evb",
+        "version": "6.1.1"
+    },
+    {
+        "name": "REI Plugin Compatibilities",
+        "url": "https://modrinth.com/mod/1PfY6b5p",
+        "version": "12.0.93"
+    },
+    {
+        "name": "InControl",
+        "url": "https://modrinth.com/mod/KpICtuVx",
+        "version": "1.20-9.2.6\r"
+    },
+    {
+        "name": "Via Romana",
+        "url": "https://modrinth.com/mod/FVToiKwr",
+        "version": "1.1.3"
+    },
+    {
+        "name": "Integrated API",
+        "url": "https://modrinth.com/mod/V6fKbpBN",
+        "version": "1.5.1+1.20.1-forge"
+    },
+    {
+        "name": "spark",
+        "url": "https://modrinth.com/mod/l6YH9Als",
+        "version": "1.10.53"
+    },
+    {
+        "name": "Create: Framed",
+        "url": "https://modrinth.com/mod/15fFZ3f4",
+        "version": "1.4.5.1\r"
+    },
+    {
+        "name": "Artifacts",
+        "url": "https://modrinth.com/mod/P0Mu4wcQ",
+        "version": "9.5.11"
+    },
+    {
+        "name": "Tetra tables looking neat",
+        "url": "https://modrinth.com/mod/9Tk5Ttel",
+        "version": "1.1"
+    },
+    {
+        "name": "Tally Master",
+        "url": "https://modrinth.com/mod/7jiQdijC",
+        "version": "1.0.3\r"
+    },
+    {
+        "name": "Iron's RPG Tweaks",
+        "url": "https://modrinth.com/mod/otXdBiS4",
+        "version": "1.20-1.2.2\r"
+    },
+    {
+        "name": "Necronomicon",
+        "url": "https://modrinth.com/mod/P1Kv5EAO",
+        "version": "1.4.2"
+    },
+    {
+        "name": "Alex's Delight",
+        "url": "https://www.curseforge.com/projects/556448",
+        "version": "1.5"
+    },
+    {
+        "name": "Not Enough Recipe Book",
+        "url": "https://modrinth.com/mod/bQh7xzFq",
+        "version": "0.3"
+    },
+    {
+        "name": "Custom Fluid Mixin",
+        "url": "https://modrinth.com/mod/XVnHT1wv",
+        "version": "1.4.2-mc1.20.1\r"
+    },
+    {
+        "name": "DoomsItsStillExplosive",
+        "url": "https://modrinth.com/mod/IRfEcbdS",
+        "version": "1.20.1-1.1.0"
+    },
+    {
+        "name": "WF's Cave Overhaul",
+        "url": "https://modrinth.com/mod/bZRPxKjL",
+        "version": "1.2.2"
+    },
+    {
+        "name": "Spell Engine",
+        "url": "https://modrinth.com/mod/XvoWJaA2",
+        "version": "0.15.8+1.20.1"
+    },
+    {
+        "name": "Better Archeology",
+        "url": "https://modrinth.com/mod/zCh7omyG",
+        "version": "1.1.9-1.20.1"
+    },
+    {
+        "name": "AstikorCarts Redux",
+        "url": "https://modrinth.com/mod/mnLFouB0",
+        "version": "1.1.8\r"
+    },
+    {
+        "name": "Edit Mob Drops",
+        "url": "https://modrinth.com/mod/CE2Pi3IJ",
+        "version": "1.4.4"
+    },
+    {
+        "name": "Smooth Swapping",
+        "url": "https://modrinth.com/mod/nmVEZj6t",
+        "version": "0.9.2"
+    },
+    {
+        "name": "CreativeCore",
+        "url": "https://modrinth.com/mod/OsZiaDHq",
+        "version": "2.11.33"
+    },
+    {
+        "name": "YUNG's Better Witch Huts",
+        "url": "https://modrinth.com/mod/t5FRdP87",
+        "version": "1.20-Forge-3.0.3"
+    },
+    {
+        "name": "Cristel Lib",
+        "url": "https://modrinth.com/mod/cl223EMc",
+        "version": "1.1.5"
+    },
+    {
+        "name": "Just Enough Breeding",
+        "url": "https://modrinth.com/mod/9Pk89J3g",
+        "version": "1.3.0\r"
+    },
+    {
+        "name": "Ensorcellation",
+        "url": "https://modrinth.com/mod/ImlP9deQ",
+        "version": "5.0.2"
+    },
+    {
+        "name": "leaky mod",
+        "url": "https://www.curseforge.com/projects/856906",
+        "version": "1.20.1-2.1\r"
+    },
+    {
+        "name": "MmmMmmMmmmmm",
+        "url": "https://modrinth.com/mod/Adega8YN",
+        "version": "1.20-1.8.19"
+    },
+    {
+        "name": "Alex's Mobs",
+        "url": "https://modrinth.com/mod/2cMuAZAp",
+        "version": "1.22.8"
+    },
+    {
+        "name": "Create: Power Loader",
+        "url": "https://modrinth.com/mod/wPQ6GgFE",
+        "version": "1.5.0-mc1.20.1"
+    },
+    {
+        "name": "Spell Power Attribute",
+        "url": "https://modrinth.com/mod/8ooWzSQP",
+        "version": "0.11.1+1.20.1"
+    },
+    {
+        "name": "Building But Better",
+        "url": "https://modrinth.com/mod/OSDpLd82",
+        "version": "1.20.1-1.1.1"
+    },
+    {
+        "name": "Wooden tools are dumb",
+        "url": "https://modrinth.com/mod/uazDNzUx",
+        "version": "1.07.1"
+    },
+    {
+        "name": "Gpu memory leak fix",
+        "url": "https://www.curseforge.com/projects/882495",
+        "version": "1.20.1-1.8\r"
+    },
+    {
+        "name": "Cardiac",
+        "url": "https://modrinth.com/mod/C5PewmIj",
+        "version": "0.5"
+    },
+    {
+        "name": "Realistic Cobwebs",
+        "url": "https://modrinth.com/mod/KbSE3UgH",
+        "version": "2.1.0"
+    },
+    {
+        "name": "Create: Interiors",
+        "url": "https://modrinth.com/mod/r4Knci2k",
+        "version": "0.5.4+forge-mc1.20.1"
+    },
+    {
+        "name": "Cherished Worlds",
+        "url": "https://modrinth.com/mod/3azQ6p0W",
+        "version": "6.1.6+1.20.1"
+    },
+    {
+        "name": "Nether's Delight",
+        "url": "https://modrinth.com/mod/Vv0RM7WN",
+        "version": "1.20.1-4.0"
+    },
+    {
+        "name": "FastMove - Parkour Movement",
+        "url": "https://modrinth.com/mod/XmqpPthc",
+        "version": "1.0.7"
+    },
+    {
+        "name": "Cerbons API",
+        "url": "https://modrinth.com/mod/GkIc6rRo",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Immersive Aircraft",
+        "url": "https://modrinth.com/mod/x3HZvrj6",
+        "version": "1.0.1+1.20.1"
+    },
+    {
+        "name": "Immersive Paintings",
+        "url": "https://modrinth.com/mod/6txNkua3",
+        "version": "0.6.7+1.20.1"
+    },
+    {
+        "name": "Re:Deco",
+        "url": "https://modrinth.com/mod/xejiztgi",
+        "version": "1.12.1\r"
+    },
+    {
+        "name": "Tetranomicon",
+        "url": "https://www.curseforge.com/projects/445385",
+        "version": "1.5.3-1.20.1"
+    },
+    {
+        "name": "Ocean's Delight",
+        "url": "https://modrinth.com/mod/DGiq4ZSW",
+        "version": "1.0.2-1.20\r"
+    },
+    {
+        "name": "Continuity",
+        "url": "https://modrinth.com/mod/1IjD5062",
+        "version": "3.0.0-beta.4+1.20.1"
+    },
+    {
+        "name": "More Delight",
+        "url": "https://modrinth.com/mod/znHQQtuU",
+        "version": "2024.07.16-1.20.1-forge"
+    },
+    {
+        "name": "Lootr",
+        "url": "https://modrinth.com/mod/EltpO5cN",
+        "version": "0.7.34.85"
+    },
+    {
+        "name": "Fly High",
+        "url": "https://modrinth.com/mod/zrm4zcXm",
+        "version": "1.0.1\r"
+    },
+    {
+        "name": "yosby",
+        "url": "https://www.curseforge.com/projects/569868",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Iron's Spells 'n Spellbooks",
+        "url": "https://modrinth.com/mod/s4OWxYQQ",
+        "version": "1.20.1-3.3.0"
+    },
+    {
+        "name": "Sushi Bar",
+        "url": "https://modrinth.com/mod/tr2Mv6ke",
+        "version": "0.2.1+1.20"
+    },
+    {
+        "name": "Better Beacons",
+        "url": "https://modrinth.com/mod/gSeQTNSE",
+        "version": "2.0.0"
+    },
+    {
+        "name": "Let Me Despawn",
+        "url": "https://modrinth.com/mod/vE2FN5qn",
+        "version": "1.2.1"
+    },
+    {
+        "name": "Fire Spread Tweaks",
+        "url": "https://modrinth.com/mod/vgI7KTun",
+        "version": "2.5"
+    },
+    {
+        "name": "YUNG's Extras",
+        "url": "https://modrinth.com/mod/ZYgyPyfq",
+        "version": "1.20-Forge-4.0.3"
+    },
+    {
+        "name": "Cull Less Leaves Reforged",
+        "url": "https://modrinth.com/mod/qthuEuVy",
+        "version": "1.20.1-1.0.5\r"
+    },
+    {
+        "name": "Creeper Overhaul",
+        "url": "https://modrinth.com/mod/MI1LWe93",
+        "version": "3.0.2"
+    },
+    {
+        "name": "Alternate Current",
+        "url": "https://modrinth.com/mod/r0v8vy1s",
+        "version": "1.7.0"
+    },
+    {
+        "name": ".connector"
+    },
+    {
+        "name": "Create: Oxidized",
+        "url": "https://modrinth.com/mod/X9kjRZeX",
+        "version": "0.1.1"
+    },
+    {
+        "name": "Crawl on Demand",
+        "url": "https://modrinth.com/mod/wcXLQVhg",
+        "version": "1.20.x-1.0.0\r"
+    },
+    {
+        "name": "Zeta",
+        "url": "https://modrinth.com/mod/MVARlG2f",
+        "version": "1.0-24\r"
+    },
+    {
+        "name": "Footprint Particle",
+        "url": "https://modrinth.com/mod/xZQOoOaY",
+        "version": "0.5.2-mc1.20"
+    },
+    {
+        "name": "MidnightLib",
+        "url": "https://modrinth.com/mod/codAaoxh",
+        "version": "1.4.2"
+    },
+    {
+        "name": "Entity Model Features",
+        "url": "https://modrinth.com/mod/4I1XuqiY",
+        "version": "2.1.3"
+    },
+    {
+        "name": "YUNG's Menu Tweaks",
+        "url": "https://modrinth.com/mod/Hcy2DFKF",
+        "version": "1.20.1-Forge-1.0.2"
+    },
+    {
+        "name": "Archers (RPG Series)",
+        "url": "https://modrinth.com/mod/QgooUXAJ",
+        "version": "1.2.5+1.20.1"
+    },
+    {
+        "name": "Art Of Forging",
+        "url": "https://modrinth.com/mod/Y9qsR64e",
+        "version": "1.8.2-1.20.1"
+    },
+    {
+        "name": "ClearDespawn",
+        "url": "https://modrinth.com/mod/yoJJjRRE",
+        "version": "1.1.15\r"
+    },
+    {
+        "name": "Chalk",
+        "url": "https://www.curseforge.com/projects/533748",
+        "version": "1.6.4\r"
+    },
+    {
+        "name": "EnchantmentDescriptions",
+        "url": "https://modrinth.com/mod/UVtY3ZAC",
+        "version": "17.1.18"
+    },
+    {
+        "name": "YUNG's Better Jungle Temples",
+        "url": "https://modrinth.com/mod/z9Ve58Ih",
+        "version": "1.20-Forge-2.0.5"
+    },
+    {
+        "name": "Crate Delight",
+        "url": "https://modrinth.com/mod/9rlXSyLg",
+        "version": "2024.07.12-1.20.1-forge"
+    },
+    {
+        "name": "Cursery Mod",
+        "url": "https://www.curseforge.com/projects/476545",
+        "version": "1.20.1-4.2\r"
+    },
+    {
+        "name": "Simply Swords",
+        "url": "https://modrinth.com/mod/bK3Ubu9p",
+        "version": "1.55.0-1.20.1"
+    },
+    {
+        "name": "Enemy Expansion",
+        "url": "https://www.curseforge.com/projects/690139",
+        "version": "2.3.1"
+    },
+    {
+        "name": "Borderless Window",
+        "url": "https://www.curseforge.com/projects/378979",
+        "version": "1.20-1.6.0"
+    },
+    {
+        "name": "Create Dynamic Light",
+        "url": "https://modrinth.com/mod/evMQRxqV",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Decorative Blocks",
+        "url": "https://modrinth.com/mod/t6BIRVZn",
+        "version": "4.1.3"
+    },
+    {
+        "name": "Varianting Mobs",
+        "url": "https://modrinth.com/mod/2x5poRUo",
+        "version": "1.4.2"
+    },
+    {
+        "name": "Alex's Caves",
+        "url": "https://modrinth.com/mod/U6GY0xp0",
+        "version": "1.1.4"
+    },
+    {
+        "name": "Animation Overhaul",
+        "url": "https://modrinth.com/mod/jCikwMS7",
+        "version": "1.3.1"
+    },
+    {
+        "name": "Combat Roll",
+        "url": "https://modrinth.com/mod/wGKYL7st",
+        "version": "1.3.3+1.20.1"
+    },
+    {
+        "name": "Create: Trimmed",
+        "url": "https://modrinth.com/mod/zvaHXgQz",
+        "version": "1.0.0"
+    },
+    {
+        "name": "AnimaticaReforged",
+        "url": "https://modrinth.com/mod/6ABF6Pv3",
+        "version": "1.20.1-0.1.3"
+    },
+    {
+        "name": "Chat Heads",
+        "url": "https://modrinth.com/mod/Wb5oqrBJ",
+        "version": "0.12.10"
+    },
+    {
+        "name": "Illager Invasion",
+        "url": "https://modrinth.com/mod/jSV9w0J5",
+        "version": "8.0.5"
+    },
+    {
+        "name": "Shoulder Surfing Reloaded",
+        "url": "https://modrinth.com/mod/kepjj2sy",
+        "version": "1.20.1-4.3.0"
+    },
+    {
+        "name": "Extended Cogwheels",
+        "url": "https://modrinth.com/mod/qO4lsa4Y",
+        "version": "2.1.1-1.20.1-0.5.1.f-forge"
+    },
+    {
+        "name": "Accessories",
+        "url": "https://modrinth.com/mod/jtmvUHXj",
+        "version": "1.0.0-beta26+1.20.1"
+    },
+    {
+        "name": "Respawning Animals",
+        "url": "https://modrinth.com/mod/WnwcSeWc",
+        "version": "8.2.0"
+    },
+    {
+        "name": "Better Advancements",
+        "url": "https://modrinth.com/mod/Q2OqKxDG",
+        "version": "0.4.2.10"
+    },
+    {
+        "name": "Better Totem of Undying",
+        "url": "https://modrinth.com/mod/qRwFcI3W",
+        "version": "2.0.1"
+    },
+    {
+        "name": "Patchouli",
+        "url": "https://modrinth.com/mod/nU0bVIaL",
+        "version": "1.20.1-84-FORGE\r"
+    },
+    {
+        "name": "Domestication Innovation",
+        "url": "https://modrinth.com/mod/h5JyLdjM",
+        "version": "1.7.1"
+    },
+    {
+        "name": "Carry On",
+        "url": "https://modrinth.com/mod/joEfVgkn",
+        "version": "2.1.2.7\r"
+    },
+    {
+        "name": "Melody",
+        "url": "https://modrinth.com/mod/CVT4pFB2",
+        "version": "1.0.2"
+    },
+    {
+        "name": "Create Deco",
+        "url": "https://modrinth.com/mod/sMvUb4Rb",
+        "version": "2.0.2-1.20.1-forge"
+    },
+    {
+        "name": "Cloth Config v10 API",
+        "url": "https://modrinth.com/mod/9s6osm5g",
+        "version": "11.1.118"
+    },
+    {
+        "name": "FPS Reducer",
+        "url": "https://modrinth.com/mod/iZ10HXDj",
+        "version": "1.20-2.5"
+    },
+    {
+        "name": "Building Shift",
+        "url": "https://modrinth.com/mod/iBVJXagn",
+        "version": "1.1.0"
+    },
+    {
+        "name": "AlmostUnified",
+        "url": "https://modrinth.com/mod/sdaSaQEz",
+        "version": "1.20.1-0.9.4"
+    },
+    {
+        "name": "e4mc",
+        "url": "https://modrinth.com/mod/qANg5Jrr",
+        "version": "5.1.0"
+    },
+    {
+        "name": "Snuffles",
+        "url": "https://modrinth.com/mod/NYGhKUS6",
+        "version": "1.0.7"
+    },
+    {
+        "name": "Raised",
+        "url": "https://modrinth.com/mod/nCQRBEiR",
+        "version": "3.1.3"
+    },
+    {
+        "name": "Molten Metals",
+        "url": "https://modrinth.com/mod/5ZuwMbpk",
+        "version": "1.20.1-0.1.4"
+    },
+    {
+        "name": "Advancement Plaques",
+        "url": "https://modrinth.com/mod/9NM0dXub",
+        "version": "1.5.1\r"
+    },
+    {
+        "name": "Eating Animation",
+        "url": "https://www.curseforge.com/projects/570544",
+        "version": "5.0.0"
+    },
+    {
+        "name": "Quark Delight",
+        "url": "https://www.curseforge.com/projects/963245",
+        "version": "1.0.0"
+    },
+    {
+        "name": "YUNG's Better End Island",
+        "url": "https://modrinth.com/mod/2BwBOmBQ",
+        "version": "1.20-Forge-2.0.6"
+    },
+    {
+        "name": "Day Counter",
+        "url": "https://modrinth.com/mod/rvq6KsSD",
+        "version": "3.8"
+    },
+    {
+        "name": "Kiwi Library",
+        "url": "https://modrinth.com/mod/ufdDoWPd",
+        "version": "11.8.20+forge\r"
+    },
+    {
+        "name": "Model Gap Fix",
+        "url": "https://modrinth.com/mod/QdG47OkI",
+        "version": "1.15"
+    },
+    {
+        "name": "EntityCulling",
+        "url": "https://modrinth.com/mod/NNAgCjsB",
+        "version": "1.6.6"
+    },
+    {
+        "name": "Create: Train Perspective",
+        "url": "https://modrinth.com/mod/MAuPqvf1",
+        "version": "0.6.1+mc1.20.1"
+    },
+    {
+        "name": "ModernFix",
+        "url": "https://modrinth.com/mod/nmDcB62a",
+        "version": "5.19.1+mc1.20.1"
+    },
+    {
+        "name": "Cook your food",
+        "url": "https://modrinth.com/mod/5L9FxTN2",
+        "version": "1.11"
+    },
+    {
+        "name": "Potacore",
+        "url": "https://modrinth.com/mod/55ByH6In",
+        "version": "0.2.8-universal"
+    },
+    {
+        "name": "No See, No tick",
+        "url": "https://modrinth.com/mod/G3Ib70DM",
+        "version": "2.0.0-build.9999"
+    },
+    {
+        "name": "Realm RPG: Fallen Adventurers",
+        "url": "https://www.curseforge.com/projects/916895",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Explorer's Compass",
+        "url": "https://modrinth.com/mod/RV1qfVQ8",
+        "version": "1.20.1-1.3.3-forge"
+    },
+    {
+        "name": "Handcrafted",
+        "url": "https://modrinth.com/mod/pJmCFF0p",
+        "version": "3.0.6"
+    },
+    {
+        "name": "Lootintegrations mod",
+        "url": "https://www.curseforge.com/projects/580689",
+        "version": "1.20.1-3.7\r"
+    },
+    {
+        "name": "Corpse",
+        "url": "https://modrinth.com/mod/WrpuIfhw",
+        "version": "1.20.1-1.0.12"
+    },
+    {
+        "name": "Fusion",
+        "url": "https://modrinth.com/mod/p19vrgc2",
+        "version": "1.1.1"
+    },
+    {
+        "name": "Curios Compat Layer for Accessories",
+        "url": "https://modrinth.com/mod/izkDUlrJ",
+        "version": "7.4.0+1.20.1"
+    },
+    {
+        "name": "Man of Many Planes",
+        "url": "https://modrinth.com/mod/9qdTHi0q",
+        "version": "0.1.0+1.20.1"
+    },
+    {
+        "name": "Shield Expansion",
+        "url": "https://modrinth.com/mod/sjxWxSao",
+        "version": "1.1.7a"
+    },
+    {
+        "name": "Diagonal Windows",
+        "url": "https://modrinth.com/mod/oOi0CKes",
+        "version": "8.1.4"
+    },
+    {
+        "name": "Create Jetpack",
+        "url": "https://modrinth.com/mod/UbFnAd4l",
+        "version": "4.2.1"
+    },
+    {
+        "name": "Trinkets",
+        "url": "https://modrinth.com/mod/5aaWibi9",
+        "version": "3.7.2"
+    },
+    {
+        "name": "Additional Placements",
+        "url": "https://modrinth.com/mod/f5TwOKkb",
+        "version": "1.8.0\r"
+    },
+    {
+        "name": "Effortless Building",
+        "url": "https://modrinth.com/mod/DYtfQEYj",
+        "version": "3.8\r"
+    },
+    {
+        "name": "Too Fast",
+        "url": "https://modrinth.com/mod/w6JSkKSH",
+        "version": "0.4.3.5"
+    },
+    {
+        "name": "Caelus API",
+        "url": "https://modrinth.com/mod/40FYwb4z",
+        "version": "3.2.0+1.20.1"
+    },
+    {
+        "name": "Curios API",
+        "url": "https://modrinth.com/mod/vvuO3ImH",
+        "version": "5.9.1+1.20.1\r"
+    },
+    {
+        "name": "Rare Ice",
+        "url": "https://modrinth.com/mod/uSi0tajU",
+        "version": "NONE"
+    },
+    {
+        "name": "Variant Barrels",
+        "url": "https://www.curseforge.com/projects/576766",
+        "version": "3.1"
+    },
+    {
+        "name": "Clumps",
+        "url": "https://www.curseforge.com/projects/256717",
+        "version": "12.0.0.4\r"
+    },
+    {
+        "name": "oωo",
+        "url": "https://modrinth.com/mod/ccKDOlHs",
+        "version": "0.11.2+1.20"
+    },
+    {
+        "name": "ImmediatelyFast",
+        "url": "https://modrinth.com/mod/5ZwdcRci",
+        "version": "1.2.20+1.20.4"
+    },
+    {
+        "name": "Extra Sounds",
+        "url": "https://modrinth.com/mod/jv7tzVE4",
+        "version": "1.3"
+    },
+    {
+        "name": "Metal Bundles",
+        "url": "https://modrinth.com/mod/6pY6oEMg",
+        "version": "8.0.2"
+    },
+    {
+        "name": "Amendments",
+        "url": "https://modrinth.com/mod/6iTJugQR",
+        "version": "1.20-1.2.8"
+    },
+    {
+        "name": "Create Teleporters",
+        "url": "https://www.curseforge.com/projects/829272",
+        "version": "2.2"
+    },
+    {
+        "name": "Better Mob Griefing Control",
+        "url": "https://www.curseforge.com/projects/241249",
+        "version": "4.0.0"
+    },
+    {
+        "name": "Better Foliage",
+        "url": "https://modrinth.com/mod/czNFt8ef",
+        "version": "5.0.2\r"
+    },
+    {
+        "name": "Onion Onion",
+        "url": "https://modrinth.com/mod/vC6rKlKN",
+        "version": "2.0.1\r"
+    },
+    {
+        "name": "tetra",
+        "url": "https://modrinth.com/mod/YP9DjOvN",
+        "version": "6.4.0"
+    },
+    {
+        "name": "Architectury",
+        "url": "https://modrinth.com/mod/lhGA9TYQ",
+        "version": "9.2.14"
+    },
+    {
+        "name": "Moderately Enough Effect Descriptions",
+        "url": "https://modrinth.com/mod/1dxbxzCg",
+        "version": "3.3.0"
+    },
+    {
+        "name": "Roughly Enough Professions",
+        "url": "https://modrinth.com/mod/V8XJ8f5f",
+        "version": "2.0.2\r"
+    },
+    {
+        "name": "Structure Essentials mod",
+        "url": "https://www.curseforge.com/projects/832882",
+        "version": "1.20.1-3.4\r"
+    },
+    {
+        "name": "GUI Compass",
+        "url": "https://modrinth.com/mod/ZORMkttv",
+        "version": "4.8"
+    },
+    {
+        "name": "Player Shops",
+        "url": "https://www.curseforge.com/projects/897765",
+        "version": "1.1.2"
+    },
+    {
+        "name": "clickadv mod",
+        "url": "https://www.curseforge.com/projects/511733",
+        "version": "1.20.1-3.8\r"
+    },
+    {
+        "name": "Connectible Chains",
+        "url": "https://modrinth.com/mod/ykSfIgTw",
+        "version": "2.2.1+1.20.1"
+    },
+    {
+        "name": "CIT Resewn",
+        "url": "https://www.curseforge.com/projects/912099",
+        "version": "1.20.1-5\r"
+    },
+    {
+        "name": "Better Combat",
+        "url": "https://modrinth.com/mod/5sy6g3kz",
+        "version": "1.8.6+1.20.1"
+    },
+    {
+        "name": "Wardrobe",
+        "url": "https://www.curseforge.com/projects/968067",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Cupboard utilities",
+        "url": "https://www.curseforge.com/projects/326652",
+        "version": "1.20.1-2.7\r"
+    },
+    {
+        "name": "SimplyWalk",
+        "url": "https://modrinth.com/mod/dQ8Qr4tT",
+        "version": "0.4.4"
+    },
+    {
+        "name": "Kambrik",
+        "url": "https://modrinth.com/mod/zfbCkvdZ",
+        "version": "6.1.1+1.20.1"
+    },
+    {
+        "name": "Straw Statues",
+        "url": "https://modrinth.com/mod/2fltysAl",
+        "version": "8.0.3"
+    },
+    {
+        "name": "Pufferfish's Unofficial Additions",
+        "url": "https://modrinth.com/mod/IAao6ECB",
+        "version": "2.1.0"
+    },
+    {
+        "name": "Create: High Pressure",
+        "url": "https://modrinth.com/mod/Mn8ziD0c",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Rubidium Dynamic Lights",
+        "url": "https://www.curseforge.com/projects/551736",
+        "version": "1.20.1_v1.6.0\r"
+    },
+    {
+        "name": "Easy Anvils",
+        "url": "https://modrinth.com/mod/OZBR5JT5",
+        "version": "8.0.2"
+    },
+    {
+        "name": "Villager Names",
+        "url": "https://modrinth.com/mod/gqRXDo8B",
+        "version": "8.1"
+    },
+    {
+        "name": "Highlighter",
+        "url": "https://modrinth.com/mod/cVNW5lr6",
+        "version": "1.1.9\r"
+    },
+    {
+        "name": "Hero Proof",
+        "url": "https://modrinth.com/mod/GDmztpJg",
+        "version": "5.2"
+    },
+    {
+        "name": "Raided",
+        "url": "https://modrinth.com/mod/9vaHfaHw",
+        "version": "0.1.4\r"
+    },
+    {
+        "name": "Dynamic Crosshair",
+        "url": "https://modrinth.com/mod/ZcR9weSm",
+        "version": "7.4.4+1.20"
+    },
+    {
+        "name": "Portable Hole",
+        "url": "https://modrinth.com/mod/jckrUoUe",
+        "version": "8.0.0"
+    },
+    {
+        "name": "Just Enough Archaeology",
+        "url": "https://modrinth.com/mod/K0LQpdmm",
+        "version": "1.20.1-1.0.5"
+    },
+    {
+        "name": "CraftingTweaks",
+        "url": "https://www.curseforge.com/projects/233071",
+        "version": "18.2.5"
+    },
+    {
+        "name": "Farmer's Cutting: Quark",
+        "url": "https://modrinth.com/mod/rH2QzhPh",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Shield Overhaul",
+        "url": "https://modrinth.com/mod/XGoaJBjR",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Canary",
+        "url": "https://modrinth.com/mod/qa2H4BS9",
+        "version": "0.3.3"
+    },
+    {
+        "name": "Create: Vintage Improvements",
+        "url": "https://modrinth.com/mod/S27aYArf",
+        "version": "1.20.1-0.2.0.2"
+    },
+    {
+        "name": "Collective",
+        "url": "https://modrinth.com/mod/e0M1UDsY",
+        "version": "7.81"
+    },
+    {
+        "name": "Jumpy Boats",
+        "url": "https://modrinth.com/mod/Z6clHfIZ",
+        "version": "1.20.0-1.0.5"
+    },
+    {
+        "name": "Iris",
+        "url": "https://www.curseforge.com/projects/455508",
+        "version": "1.6.9"
+    },
+    {
+        "name": "Spice of Life: Apple Pie Edition",
+        "url": "https://modrinth.com/mod/u1aDdOsQ",
+        "version": "1.20.1-2.3.0\r"
+    },
+    {
+        "name": "YUNG's API",
+        "url": "https://modrinth.com/mod/Ua7DFN59",
+        "version": "1.20-Forge-4.0.5"
+    },
+    {
+        "name": "MixinInHeaven",
+        "url": "https://www.curseforge.com/projects/870903",
+        "version": "0.0.1\r"
+    },
+    {
+        "name": "Additional Attributes",
+        "url": "https://www.curseforge.com/projects/986624",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Stylish Effects",
+        "url": "https://modrinth.com/mod/onDuQF5e",
+        "version": "8.0.2"
+    },
+    {
+        "name": "Sneaky Link",
+        "url": "https://modrinth.com/mod/tah8XIYc",
+        "version": "2.0.0\r"
+    },
+    {
+        "name": "Useful Spyglass",
+        "url": "https://modrinth.com/mod/XwvK7Tzg",
+        "version": "0.6.1"
+    },
+    {
+        "name": "Born in Chaos ",
+        "url": "https://www.curseforge.com/projects/686437",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Boat Break Fix",
+        "url": "https://modrinth.com/mod/OVb8ZE5p",
+        "version": "1.0.2\r"
+    },
+    {
+        "name": "Advancement Frames",
+        "url": "https://modrinth.com/mod/zUBn5hHr",
+        "version": "1.20-2.2.7"
+    },
+    {
+        "name": "YUNG's Better Desert Temples",
+        "url": "https://modrinth.com/mod/XNlO7sBv",
+        "version": "1.20-Forge-3.0.3"
+    },
+    {
+        "name": "DEUF - Duplicate Entity UUID Fix",
+        "url": "https://www.curseforge.com/projects/296646",
+        "version": "1.20.1-1.3"
+    },
+    {
+        "name": "Horse Expert",
+        "url": "https://modrinth.com/mod/24CSPS1E",
+        "version": "8.1.1"
+    },
+    {
+        "name": "Pufferfish's Skills",
+        "url": "https://modrinth.com/mod/hqQqvaa4",
+        "version": "0.12.2"
+    },
+    {
+        "name": "Just Enough Professions (JEP)",
+        "url": "https://modrinth.com/mod/kB56GtWA",
+        "version": "3.0.1\r"
+    }
+]
