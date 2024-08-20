@@ -1,0 +1,14 @@
+name = "Sushi Bar"
+filename = "sushi_bar-0.2.1+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/tr2Mv6ke/versions/QQGEDtZv/sushi_bar-0.2.1%2B1.20.jar"
+hash-format = "sha512"
+hash = "a9de376faac9fac7203fc0afa665c661288b4552c1511c3cd1fc4a6601b7007aef176a6563c5dc324a942e12ec84bffd54a83b9b5d9c59baf2937e110e866b87"
+
+[update]
+[update.modrinth]
+mod-id = "tr2Mv6ke"
+version = "QQGEDtZv"

@@ -1,0 +1,13 @@
+filename = 'bury_me_deep-1.20.1-1.0.3.jar'
+name = 'Bury Me Deep'
+side = 'both'
+
+[download]
+hash = '4e14969fcb77b2fd3d93f88590830b3e69c9b0141f71b713179f2f3b2d10c957ac080220f4352201a8ba924dd3d59b58ed634892008478820cc5dd5c67e5b154'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Sa8lEyhX/versions/lhWBC49a/bury_me_deep-1.20.1-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'Sa8lEyhX'
+version = 'lhWBC49a'

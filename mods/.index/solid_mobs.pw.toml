@@ -1,0 +1,14 @@
+name = "Solid Mobs"
+filename = "solid_mobs_forge.1.19.4+1.20-1.7.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/uEXYxtEF/versions/n1xJuC2Z/solid_mobs_forge.1.19.4%2B1.20-1.7.1.jar"
+hash-format = "sha512"
+hash = "7bdb25b5551a9576a8a578ccbbc6d0cd1511908f9916b059aec995c26e08f8683d8a25bf071ffaf16fac773bbe0fe81c6fa2aede1044d5d89e5b54998537f255"
+
+[update]
+[update.modrinth]
+mod-id = "uEXYxtEF"
+version = "n1xJuC2Z"

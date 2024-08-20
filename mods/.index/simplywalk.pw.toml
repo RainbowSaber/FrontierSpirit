@@ -1,0 +1,14 @@
+name = "SimplyWalk"
+filename = "simplywalk-0.4.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/dQ8Qr4tT/versions/k2cLVV2U/simplywalk-0.4.4-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "2d5ae0e5e85b472f7b01066f9340b08a793b74bb6fda59c14ae3d0266ff282a9d8ed5c0d2e19c244d2e7d59604d9413b8a1221e60c127b7113324387ef303e90"
+
+[update]
+[update.modrinth]
+mod-id = "dQ8Qr4tT"
+version = "k2cLVV2U"

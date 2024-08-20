@@ -1,0 +1,13 @@
+filename = 'moltenmetals-1.0.3.1-all.jar'
+name = 'Create: Molten Metallurgy'
+side = 'both'
+
+[download]
+hash = 'd8c39df6996f9c0923fb2d409d116d44e82dabcf2dc9818fe247ee5cd44b899b10906e7527a20a4440d84ff6f6d641f58192965f95ccb285567775832516f5a4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/16yGFyDF/versions/HBVU5lyd/moltenmetals-1.0.3.1-all.jar'
+
+[update.modrinth]
+mod-id = '16yGFyDF'
+version = 'HBVU5lyd'

@@ -1,0 +1,14 @@
+name = "Create Editions"
+filename = "createeditions-1.0.1+1.20.1_forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5faeeab7692d8512b0ea7d099cbb3464a06703bc"
+
+[update]
+[update.curseforge]
+file-id = 4738909
+project-id = 909651

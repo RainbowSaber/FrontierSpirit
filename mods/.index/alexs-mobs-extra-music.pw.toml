@@ -1,0 +1,14 @@
+name = "Alex's Mobs Extra Music"
+filename = "Alex's Mobs Music Mod 1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ynxotL0Y/versions/cs58FVKh/Alex%27s Mobs Music Mod 1.20.1.jar"
+hash-format = "sha512"
+hash = "1a7a773e230c84446fd6de63405b8aa486cfc0e531bc5bd6cba38ecc8bd0c789a2bb4780b44c9e48d2469537cf3f6259496785601984b048baaba08e979be6e7"
+
+[update]
+[update.modrinth]
+mod-id = "ynxotL0Y"
+version = "cs58FVKh"

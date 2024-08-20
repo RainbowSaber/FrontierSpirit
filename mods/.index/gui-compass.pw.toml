@@ -1,0 +1,13 @@
+filename = 'guicompass-1.20.1-4.8.jar'
+name = 'GUI Compass'
+side = 'both'
+
+[download]
+hash = '420b6ba6e864e37b03087d7e9159907f4950b6a464c0746910f2a62fc66d4780340fd0a0a7ea921e2771d80a57fa7efaddbb0910c7935dbde4474ff96c27205b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZORMkttv/versions/L37HLUzm/guicompass-1.20.1-4.8.jar'
+
+[update.modrinth]
+mod-id = 'ZORMkttv'
+version = 'L37HLUzm'

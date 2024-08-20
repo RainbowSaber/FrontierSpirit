@@ -1,0 +1,14 @@
+name = "Enemy Expansion"
+filename = "enemyexpansion-2.3.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f21c0b158990b480fcebf6c6cc91434e02fb8a1c"
+
+[update]
+[update.curseforge]
+file-id = 5286459
+project-id = 690139

@@ -1,0 +1,14 @@
+name = "Iris Shaders"
+filename = "iris-mc1.20.1-1.6.9.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "85f88b8bb3f10bf370604d894e872839a3e7710e"
+
+[update]
+[update.curseforge]
+file-id = 4861701
+project-id = 455508

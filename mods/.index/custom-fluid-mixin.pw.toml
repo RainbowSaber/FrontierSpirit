@@ -1,0 +1,14 @@
+name = "Custom Fluid Mixin"
+filename = "CustomFluidMixin-1.4.2-mc1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XVnHT1wv/versions/ExlBZnfX/CustomFluidMixin-1.4.2-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "d6cf4da5b8338d046d0e6437bd8ad9195b287eb463d3705c605e7a61be5ce94bd572a19207c4f85805693670c71c54a3357fd33fde8d0228093ec3dfaf8dc1f3"
+
+[update]
+[update.modrinth]
+mod-id = "XVnHT1wv"
+version = "ExlBZnfX"

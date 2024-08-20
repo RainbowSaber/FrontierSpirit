@@ -1,0 +1,13 @@
+filename = 'classiccapes20.jar'
+name = 'Classic Capes'
+side = 'both'
+
+[download]
+hash = '4f05582eaa012deebf6c1bee5f437a710e2ad26d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4963160
+project-id = 904868

@@ -1,0 +1,14 @@
+name = "Stat Tinkerer"
+filename = "stattinkerer-forge-1.20.2-10.1.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UAfajCcY/versions/AJMqUK7e/stattinkerer-forge-1.20.2-10.1.3.jar"
+hash-format = "sha512"
+hash = "a1797859abbb45762321982bbf02adcc4e58289430b618544fa7a2c27fe828c369c7e154e8952a1fa205957768ba2559c19902bc94de59093a2320578835fbab"
+
+[update]
+[update.modrinth]
+mod-id = "UAfajCcY"
+version = "AJMqUK7e"

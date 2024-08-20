@@ -1,0 +1,14 @@
+name = "Milky Way"
+filename = "milky_way-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Bp2dMRrt/versions/SwikYNzM/milky_way-1.20.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "1e4c8ff9a454ed3a1312d545f686d4f04feb464dad88c86bb99f364f8ccfb891aab6cbf550aea2bab686e123f1e1b9c5d616daa619d4f8747939b114975963e6"
+
+[update]
+[update.modrinth]
+mod-id = "Bp2dMRrt"
+version = "SwikYNzM"

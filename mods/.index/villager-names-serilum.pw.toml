@@ -1,0 +1,13 @@
+filename = 'villagernames-1.20.1-8.1.jar'
+name = 'Villager Names'
+side = 'both'
+
+[download]
+hash = 'f47f03044093fe9ba4d4c376c29542d6f2e11e32d99055635fad690741580c4e812a2e71616614f1260825628ecf97fb89c5bfd337853a4e442be156e1c203bc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gqRXDo8B/versions/rzXhJ2pH/villagernames-1.20.1-8.1.jar'
+
+[update.modrinth]
+mod-id = 'gqRXDo8B'
+version = 'rzXhJ2pH'

@@ -1,0 +1,14 @@
+name = "Grass Slabs, Carpets & Stairs"
+filename = "output.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "30fbe36062df585ce3370f942a78c1edbb425daf"
+
+[update]
+[update.curseforge]
+file-id = 5091889
+project-id = 565833

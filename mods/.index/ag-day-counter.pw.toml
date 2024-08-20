@@ -1,0 +1,14 @@
+name = "Day Counter"
+filename = "day_counter_v3.8_1.20.1_[FORGE].jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/rvq6KsSD/versions/ZUiXJdfX/day_counter_v3.8_1.20.1_%5BFORGE%5D.jar"
+hash-format = "sha512"
+hash = "8e6e19f72be20498c9827a19cda16556d9e1e903ad9fd6786f4f3a98f0e45e3b5440ff703894bc70e8d968dcff0677457446da423b47a6b9dff569fdf83ef588"
+
+[update]
+[update.modrinth]
+mod-id = "rvq6KsSD"
+version = "ZUiXJdfX"

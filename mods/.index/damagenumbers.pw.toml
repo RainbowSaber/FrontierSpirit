@@ -1,0 +1,14 @@
+name = "Damage Numbers"
+filename = "damagenumbers-1.4.0-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iWdXs2dQ/versions/LDcDBWsF/damagenumbers-1.4.0-forge.jar"
+hash-format = "sha512"
+hash = "3b08ac463418feb78c0f190b3282e9d26c4cce2ad2fb916e2de4d35af7a3e9f98ee6ffc6eb79e3647f9cb866289eaa23a27ad67a834218c35aeff7477e5125da"
+
+[update]
+[update.modrinth]
+mod-id = "iWdXs2dQ"
+version = "LDcDBWsF"

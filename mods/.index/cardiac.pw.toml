@@ -1,0 +1,14 @@
+name = "Cardiac"
+filename = "cardiac-1.20.1-0.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/C5PewmIj/versions/K8Hl3BeT/cardiac-1.20.1-0.5.jar"
+hash-format = "sha512"
+hash = "9f0cdc3dd6a26c80dc468432a3e0c29f99941df68b48cf3970d5064eb6ba1d3ac10bc7f6939b9753492ddf87b8269720291621a8ff4fbf85e8e8a8fe685fddae"
+
+[update]
+[update.modrinth]
+mod-id = "C5PewmIj"
+version = "K8Hl3BeT"

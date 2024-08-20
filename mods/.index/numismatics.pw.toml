@@ -1,0 +1,14 @@
+name = "Create: Numismatics"
+filename = "CreateNumismatics-1.0.6+forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Jdbbtt0i/versions/95Ixqq5F/CreateNumismatics-1.0.6%2Bforge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "1d578e6b16f92d399b39a88011a040aa3309ab994ee7bdcfb109795bafb06c5cae4578f6eaea8eb8ffa3cd2a97ef109c43f8cb4ffa151c33612f4348d20f01a1"
+
+[update]
+[update.modrinth]
+mod-id = "Jdbbtt0i"
+version = "95Ixqq5F"

@@ -1,0 +1,13 @@
+filename = 'variantbarrels-3.1.jar'
+name = 'Variant Barrels [Fabric | Forge]'
+side = 'both'
+
+[download]
+hash = '57f49448e3b2882a75674b308b17d2727c46d6a6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5065409
+project-id = 576766

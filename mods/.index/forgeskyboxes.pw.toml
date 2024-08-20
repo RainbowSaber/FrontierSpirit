@@ -1,0 +1,14 @@
+name = "ForgeSkyboxes"
+filename = "forgeskyboxes-0.0.2-1.20.2-new.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/QEF20av3/versions/no0b9KGe/forgeskyboxes-0.0.2-1.20.2-new.jar"
+hash-format = "sha512"
+hash = "49c356f4fdf555fc21801418d328dc1360b23821c200ed2fb7e6f40b306ebb7e891cf9a38039cf7cb0f6d952b56b6f98a4937c61f28e67a3dec0335c2df5facd"
+
+[update]
+[update.modrinth]
+mod-id = "QEF20av3"
+version = "no0b9KGe"

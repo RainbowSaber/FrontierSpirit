@@ -1,0 +1,14 @@
+name = "Buzzier Bees"
+filename = "buzzier_bees-1.20.1-6.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/b7vOFSIp/versions/PyMRj9VM/buzzier_bees-1.20.1-6.0.0.jar"
+hash-format = "sha512"
+hash = "4ff45446cf6cbd94421a477c631ae36fd3697d334b7039828061f88932ffd6d5f3d385e88a5a503c94c62d007cc816bc86d889d9c4ee290679a05d2bf633fae3"
+
+[update]
+[update.modrinth]
+mod-id = "b7vOFSIp"
+version = "PyMRj9VM"

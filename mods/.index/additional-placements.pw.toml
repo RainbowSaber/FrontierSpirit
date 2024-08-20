@@ -1,0 +1,14 @@
+name = "Additional Placements"
+filename = "AdditionalPlacements-1.20-1.8.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/f5TwOKkb/versions/HQ77A1bp/AdditionalPlacements-1.20-1.8.0.jar"
+hash-format = "sha512"
+hash = "c5a7c9e69749a36bf2b61e9160d681bbdb47e493b31905dd4a50c8c7f3ebefe248761b40693cb04fab67cd2c7d8e6cca14e3e77a83c466b577bd519b4d372a15"
+
+[update]
+[update.modrinth]
+mod-id = "f5TwOKkb"
+version = "HQ77A1bp"

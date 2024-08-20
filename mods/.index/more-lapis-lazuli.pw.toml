@@ -1,0 +1,13 @@
+filename = 'morelapis-1.1-forge1.20.1.jar'
+name = 'More Lapis Lazuli'
+side = 'both'
+
+[download]
+hash = 'cb0533fa6914096be5ad2aaa038024855547716ac32c5e727c3f150ad328eb173a0938a24c428ccbac61a7cb79954d1be53bd1d49b1089e19837f4a9e1ad9b86'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3n8DlVfJ/versions/BM4zvaal/morelapis-1.1-forge1.20.1.jar'
+
+[update.modrinth]
+mod-id = '3n8DlVfJ'
+version = 'BM4zvaal'

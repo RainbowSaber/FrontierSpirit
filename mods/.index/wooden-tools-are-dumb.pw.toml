@@ -1,0 +1,13 @@
+filename = 'wooden_tools_are_dumb--mc1.20.1--1.07.1.jar'
+name = 'Wooden tools are dumb'
+side = 'both'
+
+[download]
+hash = 'd3b1a3d590d3134254b1613fb43cb674f5cfb6c649efc5cff9b5692fd9dc4c4a38b340f94d214097789b76b3ee077e51df5496744994cd8deb80ab40c327654e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uazDNzUx/versions/jcPTpHQ7/wooden_tools_are_dumb--mc1.20.1--1.07.1.jar'
+
+[update.modrinth]
+mod-id = 'uazDNzUx'
+version = 'jcPTpHQ7'

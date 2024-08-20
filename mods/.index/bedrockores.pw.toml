@@ -1,0 +1,13 @@
+filename = 'bedrockores-MC1.20.1-2.1.0+2b9c75d.jar'
+name = 'Bedrock Ores'
+side = 'both'
+
+[download]
+hash = 'dfefd355717e84fde19e6985f0be5b609e07012a986571713ec6777e49521e89b0301e84eadeab3aae89ec6b33cb28e9bebdcb2cf1c3b00cef4b8bc562a25e54'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KCMBVtfE/versions/aoSErd10/bedrockores-MC1.20.1-2.1.0%2B2b9c75d.jar'
+
+[update.modrinth]
+mod-id = 'KCMBVtfE'
+version = 'aoSErd10'

@@ -1,0 +1,14 @@
+name = "Bushier Flowers"
+filename = "bushierflowers-0.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OK421ZCh/versions/hPR6ZSfe/bushierflowers-0.0.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "49edc620dfc4f856669807a10650974a26a19689482921cd9f2a4ac8dae19ca0e59fd7f8eb213a672a01da472337a96366d83483e220ce473ee61b2f37263161"
+
+[update]
+[update.modrinth]
+mod-id = "OK421ZCh"
+version = "hPR6ZSfe"

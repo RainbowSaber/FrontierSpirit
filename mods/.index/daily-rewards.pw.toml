@@ -1,0 +1,14 @@
+name = "Daily Rewards"
+filename = "daily_rewards_1.20.1-5.3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/IsAmLg1d/versions/B0rNBvSG/daily_rewards_1.20.1-5.3.0.jar"
+hash-format = "sha512"
+hash = "a35b10328f1081eb9cce9cfec72ba8f7713103fc854dad4c32208f33f10d6c61d279f722acea8d0c257580fc3cb6311a2e0e932cc8d77753801289d2d0a8a481"
+
+[update]
+[update.modrinth]
+mod-id = "IsAmLg1d"
+version = "B0rNBvSG"

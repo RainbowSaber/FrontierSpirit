@@ -1,0 +1,14 @@
+name = "VanillaIcecreamFix"
+filename = "vanillaIcecreamFix-1.0.0-forge-beta.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b5f1fee71c0f53c8e1f507191eb1b1b3eaad1793"
+
+[update]
+[update.curseforge]
+file-id = 4665722
+project-id = 817119

@@ -1,0 +1,13 @@
+filename = 'everycomp-1.20-2.6.71.jar'
+name = 'Every Compat'
+side = 'both'
+
+[download]
+hash = 'd901654a2e9ad9526d3ea3e4f2e3b032453106c0237f0aec2e68b4531b49de83e831090d53402d3ffe6a1cac43cc9bcc4f11236897931158450e1b7f3af64cbd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eiktJyw1/versions/h2rIfYsA/everycomp-1.20-2.6.71.jar'
+
+[update.modrinth]
+mod-id = 'eiktJyw1'
+version = 'h2rIfYsA'

@@ -1,0 +1,14 @@
+name = "More Banner Features"
+filename = "morebannerfeatures-1.2.0-1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FOaR4sIZ/versions/2F5ydUqN/morebannerfeatures-1.2.0-1.20.jar"
+hash-format = "sha512"
+hash = "889c999f64c335b6693d3d2832e0a5a716f010fa006e59a1873af912d248dfaafc0c7a1a6fd7be3d49a63fdc41027e9a9b74b9bfbb9422800fd239f6ae5a1ad5"
+
+[update]
+[update.modrinth]
+mod-id = "FOaR4sIZ"
+version = "2F5ydUqN"

@@ -1,0 +1,13 @@
+filename = 'borninconfiguration-1.4.jar'
+name = 'Born In Configuration'
+side = 'both'
+
+[download]
+hash = 'c29c4a62e108714135a70f145a2993fc72dc81c3a3a5ae1b8f1f5f0660749e4ddb65d66b3301e042711c43eb45263ff7c7d679c263e449111dd59a538b42fb69'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8rGW0cNk/versions/6wpQQDoT/borninconfiguration-1.4.jar'
+
+[update.modrinth]
+mod-id = '8rGW0cNk'
+version = '6wpQQDoT'

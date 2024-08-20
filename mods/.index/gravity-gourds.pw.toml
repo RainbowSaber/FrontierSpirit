@@ -1,0 +1,14 @@
+name = "Gravity, Gourds, & You"
+filename = "gravity_gourds-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5x8HNYKM/versions/FyS8kadP/gravity_gourds-1.20.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "91ecf613e2ea3a868e1bc47eb401af230da68d0c82cdb30be5930a92352ce8e1dfb399753364bfe8dc61f459366b380dff78bc8cc130a9e0c9683df84cbae3b9"
+
+[update]
+[update.modrinth]
+mod-id = "5x8HNYKM"
+version = "FyS8kadP"

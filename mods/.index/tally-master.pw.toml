@@ -1,0 +1,14 @@
+name = "Tally Master"
+filename = "TallyMaster-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/7jiQdijC/versions/CrSibNa9/TallyMaster-1.20.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "9fa82aa3276d2a230fa34c2bacc7aefab7215bda524cd76d43f30e0a8685a1a674216a4b9ff954fc02872b4f8f21a53ec177b16f765752a33d42d577f2c15ec3"
+
+[update]
+[update.modrinth]
+mod-id = "7jiQdijC"
+version = "CrSibNa9"

@@ -1,0 +1,14 @@
+name = "Auto HUD"
+filename = "autohud-6.3.6+1.20.1-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/temczoTQ/versions/dGN1kqQy/autohud-6.3.6%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "ba2142c8255c07a52f3871a559292b58ba27421ec701ecff8e97fb61544019a78ebac3ab1cd362e60cc3d661ae1c270e66424fa41b82bb03dbf04aa524cc4c33"
+
+[update]
+[update.modrinth]
+mod-id = "temczoTQ"
+version = "dGN1kqQy"

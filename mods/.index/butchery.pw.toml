@@ -1,0 +1,14 @@
+name = "Butcher"
+filename = "butcher-2.5.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/6YfOmC9t/versions/uPEsP858/butcher-2.5.1.jar"
+hash-format = "sha512"
+hash = "a68e5f34f2e2fc4cd2482b564af23f2f96c8a5ef7de4d70ab426b1c36ad8e665c830ff6671113ae3dfce9ea55cbd7ff804e93472cd5072e9a30cecbeb24c7882"
+
+[update]
+[update.modrinth]
+mod-id = "6YfOmC9t"
+version = "uPEsP858"

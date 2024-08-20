@@ -1,0 +1,13 @@
+filename = 'createenchantablemachinery-1.0.0.jar'
+name = 'Create: Enchantable Machinery'
+side = 'both'
+
+[download]
+hash = 'a6545a996d93ddc30e0a190e0d28d16b91b0d36b9353d0aa4c503ef940c67b842078d2f8048df72f247e7aabc450a4a7601f1f7f851e78eb2ca5bd2bd88721c8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eqrvp4NK/versions/fYrWNskj/createenchantablemachinery-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'eqrvp4NK'
+version = 'fYrWNskj'

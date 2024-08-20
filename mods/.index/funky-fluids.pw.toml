@@ -1,0 +1,14 @@
+name = "Funky Fluids"
+filename = "funkyfluids-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/G0RU3iXJ/versions/VkKxMbHB/funkyfluids-1.20.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "639d8717ddde8c233e4a5a79e75e9f0e7bb2b72dc3b2e25b659f75d2e3da279d4801c97aee2f4281bb34838d558befbf54e6069673e2b660fe096b1c55c6332b"
+
+[update]
+[update.modrinth]
+mod-id = "G0RU3iXJ"
+version = "VkKxMbHB"

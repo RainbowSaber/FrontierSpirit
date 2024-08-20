@@ -1,0 +1,14 @@
+name = "Useful Spyglass"
+filename = "usefulspyglass-forge-1.20.1-0.6.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XwvK7Tzg/versions/aT2BPuwJ/usefulspyglass-forge-1.20.1-0.6.1.jar"
+hash-format = "sha512"
+hash = "d04e211d8eb708c1887bab8d09d75d281f9a432dd831e0c48c796872fe0511ae6b19d4545fe80ab2236be0137e74f46399543e39c08821772f1f0e9dfc6ca4d8"
+
+[update]
+[update.modrinth]
+mod-id = "XwvK7Tzg"
+version = "aT2BPuwJ"

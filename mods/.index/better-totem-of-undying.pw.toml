@@ -1,0 +1,13 @@
+filename = 'BetterTotemOfUndying-Forge-1.20.4-2.0.1.jar'
+name = "CERBON's Better Totem of Undying"
+side = 'both'
+
+[download]
+hash = 'f75abff4990497311d7d5611d0cb0fd9e8bc8bb373ee7b6f997d7851296dcecb104b9f81c270400b58a9b82d610506110311997309bc666b3ccfd464e3abd796'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qRwFcI3W/versions/surXsBQu/BetterTotemOfUndying-Forge-1.20.4-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'qRwFcI3W'
+version = 'surXsBQu'

@@ -1,0 +1,14 @@
+name = "Frame Changer"
+filename = "frame_changer-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/597XsRkb/versions/3Ntit21K/frame_changer-1.20.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "f7361cffab539e340124b3f6c47062299d1e8e1726e907295a69cb0d68b2cf1cec4b27340cdc459a23da27b988ed76c9b7eeafd5c9ccebc6fda1bfc909be7ed9"
+
+[update]
+[update.modrinth]
+mod-id = "597XsRkb"
+version = "3Ntit21K"

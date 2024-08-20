@@ -1,0 +1,13 @@
+filename = 'variantingmobs-1.4.2.jar'
+name = 'Variating Mobs'
+side = 'both'
+
+[download]
+hash = '98708ec45720541d95330d41948feb893f8ea52d62cab67ece1b680974cc2cd39355a97541aeae039f89fdeb65739aea1a84e2b2fe8d5877e20b6743246998d8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2x5poRUo/versions/7qrfXziJ/variantingmobs-1.4.2.jar'
+
+[update.modrinth]
+mod-id = '2x5poRUo'
+version = '7qrfXziJ'

@@ -1,0 +1,14 @@
+name = "One shot protection"
+filename = "1.0_OneShotProtection.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/oSVKq68y/versions/SNWcmQiS/1.0_OneShotProtection.jar"
+hash-format = "sha512"
+hash = "74bb7916595b6335cfea349ad0de498d0e91a93445862fd17f1c4432167948272ab860617541767f815c364136ac3266aa269b72cb94780c20bf6662f5fcc8ec"
+
+[update]
+[update.modrinth]
+mod-id = "oSVKq68y"
+version = "SNWcmQiS"

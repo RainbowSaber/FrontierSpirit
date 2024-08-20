@@ -1,0 +1,14 @@
+name = "Sawmill"
+filename = "sawmill-1.20-1.4.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/t41Z8B1V/sawmill-1.20-1.4.3.jar"
+hash-format = "sha512"
+hash = "b41aa792ada4d01dc2a38e16cea844022279e53462d7076bfdd257f971fcb112b0bc6c089adb3455da7ff9aa47541ec9412e5aac7107f6314a4eca55bd6ef0ea"
+
+[update]
+[update.modrinth]
+mod-id = "WRaRZdTd"
+version = "t41Z8B1V"

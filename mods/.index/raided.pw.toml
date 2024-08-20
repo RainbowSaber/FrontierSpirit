@@ -1,0 +1,14 @@
+name = "Raided"
+filename = "Raided-1.20.1-0.1.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/9vaHfaHw/versions/otISy9tM/Raided-1.20.1-0.1.4.jar"
+hash-format = "sha512"
+hash = "5d5604dee31e79dcd1e78a88bd81e502e0b875ba7297781252ef2e0b082dc1e460beca4a87e2fa333c4e71ce6a2db0263f7f53fa0f677dae49d002c523c63f2e"
+
+[update]
+[update.modrinth]
+mod-id = "9vaHfaHw"
+version = "otISy9tM"

@@ -1,0 +1,14 @@
+name = "Building Shift"
+filename = "BuildingShift-1.20-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iBVJXagn/versions/nzxs8soU/BuildingShift-1.20-1.1.0.jar"
+hash-format = "sha512"
+hash = "772dcd9e68d962b1a6124a7528892efd13f89777d5135187eeff9cce03240e2b7ab25d045caa6763689821c7921d3d10375d7a7527c16504c8d2bec67ad80f5f"
+
+[update]
+[update.modrinth]
+mod-id = "iBVJXagn"
+version = "nzxs8soU"

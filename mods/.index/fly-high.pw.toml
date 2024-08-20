@@ -1,0 +1,14 @@
+name = "Fly High"
+filename = "fly_high-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/zrm4zcXm/versions/NloMlKMh/fly_high-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "f74eb8a2760c12b7250894201f8e0fb2721fbebefdee30c8e1e8441b6a6cbd3b474e91dd506368310799ac42be8d87755f17e811aa8710ae6b73aa4a0f767ab1"
+
+[update]
+[update.modrinth]
+mod-id = "zrm4zcXm"
+version = "NloMlKMh"

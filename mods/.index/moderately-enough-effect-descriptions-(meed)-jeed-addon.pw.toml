@@ -1,0 +1,14 @@
+name = "Moderately Enough Effect Descriptions"
+filename = "MEED-1.20.1-4.7.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/1dxbxzCg/versions/NICdzU31/MEED-1.20.1-4.7.jar"
+hash-format = "sha512"
+hash = "a6d5f72fd82245ef063c3de97896be6b59e6457c6ea61d94d6889e2e45e0f102ac2ed1bdfdcee99601dbd65207bff7a9214be83e4158947138c5e40a060979bc"
+
+[update]
+[update.modrinth]
+mod-id = "1dxbxzCg"
+version = "NICdzU31"

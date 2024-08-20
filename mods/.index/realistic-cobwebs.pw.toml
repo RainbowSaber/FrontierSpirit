@@ -1,0 +1,14 @@
+name = "Realistic Cobwebs"
+filename = "Realistic-Cobwebs-NeoForge-2.1.0-all.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/KbSE3UgH/versions/1V22GelL/Realistic-Cobwebs-NeoForge-2.1.0-all.jar"
+hash-format = "sha512"
+hash = "2e20717b034a8d7c6502072470fc88a1643059549d7fdad9f1703620913a4d473604583696f92e92b49e9a8b4e7d34fadd7110566b1d3ddd82d5611f678fb95a"
+
+[update]
+[update.modrinth]
+mod-id = "KbSE3UgH"
+version = "1V22GelL"

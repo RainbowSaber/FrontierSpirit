@@ -1,0 +1,13 @@
+filename = 'onion_onion-1.20.1-2.0.1.jar'
+name = 'Onion Onion'
+side = 'both'
+
+[download]
+hash = '7acb5fa01848a39ec2f50acdb020e1162c5c5bd9d8c83d9f42a78a32a4f8eff5299358c48846d4ab4f28a5ef5a8ac5295d85ce43fff9c8167b4231f1e61517cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vC6rKlKN/versions/UAqAOBO1/onion_onion-1.20.1-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'vC6rKlKN'
+version = 'UAqAOBO1'
